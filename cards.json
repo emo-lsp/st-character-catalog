@@ -1,1 +1,12 @@
-test
+[
+  {
+    "id": "testcard",
+    "name": "测试卡",
+    "version": "1.0.0",
+    "updatedAt": "2026-04-27",
+    "filename": "测试卡.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/testcard-1.0.png",
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/testcard.md",
+    "tags": ["测试"]
+  }
+]
