@@ -1,5 +1,17 @@
 [
   {
+    "id": "pokemon-hana",
+    "characterName": "花子",
+    "name": "宝可梦——你妈一个人在家",
+    "version": "0.5.0",
+    "updatedAt": "2025-06-04 14:28:00",
+    "filename": "宝可梦-你妈一个人在家.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/pokemon-hana-0.5.0.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/pokemon-hana.md",
+    "tags": ["宝可梦", "NTR", "现代", "剧情"]
+  },
+  {
     "id": "testcard",
     "characterName": "testcard",
     "name": "测试卡",
