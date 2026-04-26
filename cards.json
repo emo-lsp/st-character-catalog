@@ -10,17 +10,5 @@
     "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/pokemon-hana.md",
     "tags": ["NTR", "现代", "妈妈系", "NTL"]
-  },
-  {
-    "id": "testcard",
-    "characterName": "testcard",
-    "name": "测试卡",
-    "version": "1.0.0",
-    "updatedAt": "2026-04-27",
-    "filename": "测试卡.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/testcard-1.0.png",
-    "playTips": "**游玩提示示例**：这张测试卡适合用来检查远程卡库的展示、导入和更新效果。\n\n- 打开详情页后，应能在描述上方看到这个高亮提示区\n- 可以测试 Markdown 的加粗、列表和换行显示\n- 导入成功后，详情页会自动关闭，并在酒馆顶部显示成功提示",
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/testcard.md",
-    "tags": ["测试"]
   }
 ]
