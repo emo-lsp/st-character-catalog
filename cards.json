@@ -113,6 +113,31 @@
     "tags": ["NTL", "现代", "御姐", "人妻", "妈妈系", "MVU"]
   },
   {
+    "id": "da-feng-da-geng-ren",
+    "characterName": "大奉群芳",
+    "name": "大奉打更人之寝取",
+    "version": "1.1",
+    "publishedAt": "2025-06-24",
+    "updatedAt": "2025-06-25",
+    "filename": "大奉打更人之寝取.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/da-feng-da-geng-ren-1.1.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.1",
+        "date": "2025-06-25",
+        "content": "- 忘了"
+      },
+      {
+        "version": "1.0",
+        "date": "2025-06-24",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/da-feng-da-geng-ren.md",
+    "tags": ["NTL", "古风", "御姐", "人妻", "妈妈系", "同人", "MVU"]
+  },
+  {
     "id": "xiao-mao-bai-yue-guang",
     "characterName": "柳婉仪",
     "name": "小猫咪与白月光",
