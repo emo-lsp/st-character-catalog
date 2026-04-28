@@ -59,6 +59,31 @@
     "tags": ["NTL", "现代", "插图", "乱伦", "人妻", "妈妈系", "MVU"]
   },
   {
+    "id": "xue-jian-qian-he",
+    "characterName": "雪见千鹤",
+    "name": "雪见千鹤",
+    "version": "1.1",
+    "publishedAt": "2025-10-23",
+    "updatedAt": "2025-10-24",
+    "filename": "雪见千鹤.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/xue-jian-qian-he-1.1.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.1",
+        "date": "2025-10-24",
+        "content": "- 修复偏离日常的内容问题"
+      },
+      {
+        "version": "1.0",
+        "date": "2025-10-23",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/xue-jian-qian-he.md",
+    "tags": ["纯爱", "现代", "乱伦", "萝莉", "妈妈系", "MVU"]
+  },
+  {
     "id": "san-ge-ji-jie-zhi-wai",
     "characterName": "白诗语",
     "name": "三个季节之外",
