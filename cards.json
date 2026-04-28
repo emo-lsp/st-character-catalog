@@ -50,6 +50,31 @@
     "tags": ["乱伦", "NTL", "现代", "妈妈系", "MVU"]
   },
   {
+    "id": "nv-you-xiao-ye",
+    "characterName": "小叶",
+    "name": "女友小叶",
+    "version": "1.1",
+    "publishedAt": "2025-06-19",
+    "updatedAt": "2025-06-21",
+    "filename": "女友小叶.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/nv-you-xiao-ye-1.1.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.1",
+        "date": "2025-06-21",
+        "content": "- 修了几个小错误"
+      },
+      {
+        "version": "1.0",
+        "date": "2025-06-19",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/nv-you-xiao-ye.md",
+    "tags": ["NTL", "现代", "调教", "纯文字"]
+  },
+  {
     "id": "xiao-mao-bai-yue-guang",
     "characterName": "柳婉仪",
     "name": "小猫咪与白月光",
