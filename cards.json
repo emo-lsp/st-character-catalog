@@ -12,6 +12,7 @@
     "changelog": [
       {
         "version": "2.1",
+        "date": "2026-04-28",
         "content": "- 更新 MVU 适配额外变量解析"
       },
       {
