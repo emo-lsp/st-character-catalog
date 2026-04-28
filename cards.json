@@ -248,6 +248,36 @@
     "tags": ["NTL", "现代", "插图", "人妻", "乱伦", "MVU"]
   },
   {
+    "id": "luo-qing-yi",
+    "characterName": "洛轻漪",
+    "name": "洛轻漪",
+    "version": "1.2",
+    "publishedAt": "2025-08-02",
+    "updatedAt": "2025-08-08",
+    "filename": "洛轻漪.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/luo-qing-yi-1.2.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.2",
+        "date": "2025-08-08",
+        "content": "- 增加柳青青插图约240张\n- 柳青青身份从侍妾改成王妃\n- <user>身份从江南总督改成亲王\n- 洛轻漪/邵文修/柳青青的角色人设和数值阶段改成绿灯"
+      },
+      {
+        "version": "1.1",
+        "date": "2025-08-03",
+        "content": "- 故事基调加强NTL\n- 增加毒性值的增长频率\n- 再次强调各种数值不得超限\n- 增加邵文修的察觉值分阶段人设"
+      },
+      {
+        "version": "1.0",
+        "date": "2025-08-02",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/luo-qing-yi.md",
+    "tags": ["NTL", "古风", "插图", "纯爱", "MVU"]
+  },
+  {
     "id": "xiao-mao-bai-yue-guang",
     "characterName": "柳婉仪",
     "name": "小猫咪与白月光",
