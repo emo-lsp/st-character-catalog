@@ -230,6 +230,31 @@
     "tags": ["NTL", "现代", "插图", "人妻", "调教", "MVU"]
   },
   {
+    "id": "ci-xiao-gui-cheng-jie-zhe",
+    "characterName": "雌小鬼们",
+    "name": "雌小鬼惩戒者",
+    "version": "1.1",
+    "publishedAt": "2025-12-21",
+    "updatedAt": "2025-12-30",
+    "filename": "雌小鬼惩戒者.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/ci-xiao-gui-cheng-jie-zhe-1.1.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.1",
+        "date": "2025-12-30",
+        "content": "- 语料更新\n- 修复惩戒点数更新错误\n- 搜索面板增加同人搜索项\n- 增加3个新技能：意识入侵、肉体改造、记忆篡改\n- 若干商城道具，优化世界书绿灯条目，开局缩减5707token"
+      },
+      {
+        "version": "1.0",
+        "date": "2025-12-21",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/ci-xiao-gui-cheng-jie-zhe.md",
+    "tags": ["NTL", "现代", "萝莉", "调教", "MVU"]
+  },
+  {
     "id": "san-ge-ji-jie-zhi-wai",
     "characterName": "白诗语",
     "name": "三个季节之外",
