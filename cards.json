@@ -84,6 +84,61 @@
     "tags": ["纯爱", "现代", "乱伦", "萝莉", "妈妈系", "MVU"]
   },
   {
+    "id": "xian-xia-ci-jing-lu-ding",
+    "characterName": "虞清寒/殷妙烟/秦素霜/江小鲤",
+    "name": "仙侠雌竞-我是炉鼎体质",
+    "version": "1.7",
+    "publishedAt": "2025-10-25",
+    "updatedAt": "2026-02-20",
+    "filename": "仙侠雌竞-我是炉鼎体质.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/xian-xia-ci-jing-lu-ding-1.7.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.7",
+        "date": "2026-02-20",
+        "content": "- 前端小修\n- 优化MVU变量数值增减的问题"
+      },
+      {
+        "version": "1.6",
+        "date": "2025-11-30",
+        "content": "- MVU变量全面更新至MVU Zod"
+      },
+      {
+        "version": "1.5",
+        "date": "2025-11-21",
+        "content": "- 适配Gemini3.0的变量更新"
+      },
+      {
+        "version": "1.4",
+        "date": "2025-11-03",
+        "content": "- 添加圣女秦素霜插图349张"
+      },
+      {
+        "version": "1.3",
+        "date": "2025-10-30",
+        "content": "- 添加魔门殷妙烟插图262张\n- 优化前端性能"
+      },
+      {
+        "version": "1.2",
+        "date": "2025-10-27",
+        "content": "- 添加青梅江小鲤插图455张"
+      },
+      {
+        "version": "1.1",
+        "date": "2025-10-26",
+        "content": "- 世界书重新排序\n- 修复数个严重错误"
+      },
+      {
+        "version": "1.0",
+        "date": "2025-10-25",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/xian-xia-ci-jing-lu-ding.md",
+    "tags": ["纯爱", "古风", "插图", "御姐", "妈妈系", "MVU"]
+  },
+  {
     "id": "san-ge-ji-jie-zhi-wai",
     "characterName": "白诗语",
     "name": "三个季节之外",
