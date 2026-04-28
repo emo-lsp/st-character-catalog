@@ -1,5 +1,24 @@
 [
   {
+    "id": "ci-xiao-gui-zao-tang",
+    "characterName": "千夏/真冬",
+    "name": "雌小鬼澡堂",
+    "version": "1.0",
+    "publishedAt": "2025-10-04",
+    "updatedAt": "2025-10-04",
+    "filename": "雌小鬼澡堂.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/ci-xiao-gui-zao-tang-1.0.png",
+    "changelog": [
+      {
+        "version": "1.0",
+        "date": "2025-10-04",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/ci-xiao-gui-zao-tang.md",
+    "tags": ["纯爱", "现代", "萝莉", "纯文字"]
+  },
+  {
     "id": "san-ge-ji-jie-zhi-wai",
     "characterName": "白诗语",
     "name": "三个季节之外",
@@ -345,7 +364,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/xiao-mao-bai-yue-guang.md",
-    "tags": ["古风", "御姐", "纯爱", "MVU", "双女主"]
+    "tags": ["古风", "御姐", "纯爱", "MVU"]
   },
   {
     "id": "ji-pin-jia-ding",
