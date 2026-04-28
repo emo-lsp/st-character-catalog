@@ -1,5 +1,30 @@
 [
   {
+    "id": "san-ge-ji-jie-zhi-wai",
+    "characterName": "白诗语",
+    "name": "三个季节之外",
+    "version": "1.2",
+    "publishedAt": "2025-06-13",
+    "updatedAt": "2025-06-25",
+    "filename": "三个季节之外.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/san-ge-ji-jie-zhi-wai-1.2.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.2",
+        "date": "2025-06-25",
+        "content": "- 小修，应该不太会掉格式了"
+      },
+      {
+        "version": "1.0",
+        "date": "2025-06-13",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/san-ge-ji-jie-zhi-wai.md",
+    "tags": []
+  },
+  {
     "id": "xiao-mao-bai-yue-guang",
     "characterName": "柳婉仪",
     "name": "小猫咪与白月光",
