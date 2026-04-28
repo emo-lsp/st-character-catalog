@@ -410,6 +410,31 @@
     "tags": ["NTL", "现代", "人妻", "调教", "MVU"]
   },
   {
+    "id": "mo-ban-che-de-cheng-xiao-man",
+    "characterName": "程小满",
+    "name": "末班车的程小满",
+    "version": "1.1",
+    "publishedAt": "2026-03-26",
+    "updatedAt": "2026-03-27",
+    "filename": "末班车的程小满.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/mo-ban-che-de-cheng-xiao-man-1.1.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.1",
+        "date": "2026-03-27",
+        "content": "- 经群友建议，程刚原设定不合理（二线城市电焊夜班工资很高），现在修改程刚的相关设定为普通流水线工人，然后凌晨下班会直接去商k不留什么钱\n- 程刚从「被动缺位的苦力父亲」变成「主动逃避的堕落父亲」"
+      },
+      {
+        "version": "1.0",
+        "date": "2026-03-26",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/mo-ban-che-de-cheng-xiao-man.md",
+    "tags": ["纯爱", "现代", "萝莉", "调教"]
+  },
+  {
     "id": "san-ge-ji-jie-zhi-wai",
     "characterName": "白诗语",
     "name": "三个季节之外",
