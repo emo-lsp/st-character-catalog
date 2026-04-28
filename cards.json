@@ -255,6 +255,36 @@
     "tags": ["NTL", "现代", "萝莉", "调教", "MVU"]
   },
   {
+    "id": "shi-er-nian-de-dong-xia",
+    "characterName": "母亲",
+    "name": "十二年的冬夏",
+    "version": "1.2",
+    "publishedAt": "2025-12-31",
+    "updatedAt": "2026-04-29",
+    "filename": "十二年的冬夏.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/shi-er-nian-de-dong-xia-1.2.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.2",
+        "date": "2026-04-29",
+        "content": "- 适配MVU额外模型解析"
+      },
+      {
+        "version": "1.1",
+        "date": "2026-01-05",
+        "content": "- 修复资料中年龄跨度不准确的问题\n- 把母亲的亲密度和愧疚感都拉高到200\n- 选项和状态栏前端优化\n- 状态栏新增快捷修改MVU变量的功能"
+      },
+      {
+        "version": "1.0",
+        "date": "2025-12-31",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/shi-er-nian-de-dong-xia.md",
+    "tags": ["NTL", "现代", "人妻", "乱伦", "妈妈系", "MVU"]
+  },
+  {
     "id": "san-ge-ji-jie-zhi-wai",
     "characterName": "白诗语",
     "name": "三个季节之外",
