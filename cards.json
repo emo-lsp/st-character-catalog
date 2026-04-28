@@ -1,5 +1,34 @@
 [
   {
+    "id": "xiao-mao-bai-yue-guang",
+    "characterName": "柳婉仪",
+    "name": "小猫咪与白月光",
+    "version": "2.1",
+    "publishedAt": "2025-06-07",
+    "updatedAt": "2026-04-28 22:04:35",
+    "filename": "小猫咪与白月光.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/xiao-mao-bai-yue-guang-2.1.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "2.1",
+        "content": "- 更新 MVU 适配额外变量解析"
+      },
+      {
+        "version": "2.0",
+        "date": "2025-12-12 02:10:00",
+        "content": "- 重做状态栏美化\n- MVU 更新为 MVU Zod\n- 角色性格微调，使用荣格八维"
+      },
+      {
+        "version": "1.0",
+        "date": "2025-06-07",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/xiao-mao-bai-yue-guang.md",
+    "tags": ["古风", "御姐", "纯爱", "MVU", "双女主"]
+  },
+  {
     "id": "pokemon-hana",
     "characterName": "花子",
     "name": "宝可梦——你妈一个人在家",
