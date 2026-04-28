@@ -8,7 +8,7 @@
     "updatedAt": "2026-04-28 22:04:35",
     "filename": "小猫咪与白月光.png",
     "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/xiao-mao-bai-yue-guang-2.1.png",
-    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用\n- MVU 适配额外变量解析",
     "changelog": [
       {
         "version": "2.1",
