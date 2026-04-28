@@ -47,7 +47,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/dao-ming-si-ling-xiang.md",
-    "tags": ["乱伦", "NTL", "现代", "妈妈系", "MVU"]
+    "tags": ["乱伦", "NTL", "现代", "妈妈系", "人妻", "MVU"]
   },
   {
     "id": "nv-you-xiao-ye",
@@ -123,6 +123,36 @@
     "tags": ["古风", "御姐", "纯爱", "MVU", "双女主"]
   },
   {
+    "id": "ji-pin-jia-ding",
+    "characterName": "林三后宫",
+    "name": "极品家丁",
+    "version": "1.2",
+    "publishedAt": "2025-06-06",
+    "updatedAt": "2025-06-25",
+    "filename": "极品家丁.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/ji-pin-jia-ding-1.2.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.2",
+        "date": "2025-06-25",
+        "content": "- 修报错"
+      },
+      {
+        "version": "1.1",
+        "date": "2025-06-20",
+        "content": "- 移除了系统，增加MVU和13个女角色的分阶段人设"
+      },
+      {
+        "version": "1.0",
+        "date": "2025-06-06",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/ji-pin-jia-ding.md",
+    "tags": ["NTL", "古风", "同人", "御姐", "人妻", "MVU"]
+  },
+  {
     "id": "pokemon-hana",
     "characterName": "花子",
     "name": "宝可梦——你妈一个人在家",
@@ -145,6 +175,6 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/pokemon-hana.md",
-    "tags": ["NTR", "现代", "妈妈系", "NTL", "MVU"]
+    "tags": ["NTR", "现代", "妈妈系", "NTL", "人妻", "MVU"]
   }
 ]
