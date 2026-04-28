@@ -285,6 +285,36 @@
     "tags": ["NTL", "现代", "人妻", "乱伦", "妈妈系", "MVU"]
   },
   {
+    "id": "wo-dang-xi-tong",
+    "characterName": "系统",
+    "name": "我当系统？",
+    "version": "1.2",
+    "publishedAt": "2026-01-09",
+    "updatedAt": "2026-01-20",
+    "filename": "我当系统？.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/wo-dang-xi-tong-1.2.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.2",
+        "date": "2026-01-20",
+        "content": "- 新增NPC面板\n- 商城增加抽奖功能\n- 选择器和状态栏变量增加男娘、扶她可选性别\n- 为宿主和系统增加DND六维和能力列表相关内容"
+      },
+      {
+        "version": "1.1",
+        "date": "2026-01-10",
+        "content": "- 修复对系统态度显示不准确的问题\n- 任务面板增加失败按钮\n- 控制面板增加系统干预指令"
+      },
+      {
+        "version": "1.0",
+        "date": "2026-01-09",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/wo-dang-xi-tong.md",
+    "tags": ["沙盒", "系统", "MVU"]
+  },
+  {
     "id": "san-ge-ji-jie-zhi-wai",
     "characterName": "白诗语",
     "name": "三个季节之外",
