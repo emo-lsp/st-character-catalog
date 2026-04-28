@@ -278,6 +278,46 @@
     "tags": ["NTL", "古风", "插图", "纯爱", "MVU"]
   },
   {
+    "id": "yin-jian-bian-li-dian",
+    "characterName": "桜井美樱",
+    "name": "隐奸便利店",
+    "version": "2.1",
+    "publishedAt": "2025-08-05",
+    "updatedAt": "2025-08-14",
+    "filename": "隐奸便利店.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/yin-jian-bian-li-dian-2.1.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "2.1",
+        "date": "2025-08-14",
+        "content": "- 小修复"
+      },
+      {
+        "version": "2.0",
+        "date": "2025-08-13",
+        "content": "- 世界书调整，token量激增\n- 新增角色：美樱的母亲，桜井由美子\n- 美樱和由美子改为MVU分阶段，新增状态栏\n- 新增40张美樱插图，新增400张由美子插图"
+      },
+      {
+        "version": "1.2",
+        "date": "2025-08-07",
+        "content": "- 世界书视角和选项自由开关\n- 修改优化男友视角，防全知，遵循时空逻辑\n- 添加手机小剧场和日记小剧场\n- 新增115张插图"
+      },
+      {
+        "version": "1.1",
+        "date": "2025-08-05",
+        "content": "- 修选项正则\n- 插图大小异常可切换备用显示方案"
+      },
+      {
+        "version": "1.0",
+        "date": "2025-08-05",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/yin-jian-bian-li-dian.md",
+    "tags": ["NTL", "现代", "插图", "人妻", "妈妈系", "MVU"]
+  },
+  {
     "id": "xiao-mao-bai-yue-guang",
     "characterName": "柳婉仪",
     "name": "小猫咪与白月光",
