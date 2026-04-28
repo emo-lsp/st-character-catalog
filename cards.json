@@ -139,6 +139,41 @@
     "tags": ["纯爱", "古风", "插图", "御姐", "妈妈系", "MVU"]
   },
   {
+    "id": "er-zi-de-fu-dao-yuan",
+    "characterName": "许婉如",
+    "name": "儿子的专属辅导员",
+    "version": "1.3",
+    "publishedAt": "2025-11-12",
+    "updatedAt": "2026-01-09",
+    "filename": "儿子的专属辅导员.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/er-zi-de-fu-dao-yuan-1.3.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.3",
+        "date": "2026-01-09",
+        "content": "- 变量更新为MVU Zod结构\n- 增加新角色和开场白——程明远的私人助理，有恋父情结的温晴姐姐"
+      },
+      {
+        "version": "1.2",
+        "date": "2025-11-24",
+        "content": "- 变量适配Gemini3.0"
+      },
+      {
+        "version": "1.1",
+        "date": "2025-11-16",
+        "content": "- 添加判断变量的小cot\n- 重写父亲和<user>的部分人设和三个开场白\n- 增加父亲的掌控值分阶段人设"
+      },
+      {
+        "version": "1.0",
+        "date": "2025-11-12",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/er-zi-de-fu-dao-yuan.md",
+    "tags": ["NTL", "现代", "乱伦", "御姐", "妈妈系", "MVU"]
+  },
+  {
     "id": "san-ge-ji-jie-zhi-wai",
     "characterName": "白诗语",
     "name": "三个季节之外",
