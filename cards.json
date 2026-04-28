@@ -360,6 +360,31 @@
     "tags": ["纯爱", "现代", "人妻", "MVU"]
   },
   {
+    "id": "wo-de-shi-zun",
+    "characterName": "姬云舒",
+    "name": "我的师尊是论坛榜一大姐",
+    "version": "1.1",
+    "publishedAt": "2026-02-26",
+    "updatedAt": "2026-03-01",
+    "filename": "我的师尊是论坛榜一大姐.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/wo-de-shi-zun-1.1.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.1",
+        "date": "2026-03-01",
+        "content": "- 支持角色卡自动更新\n- 为九州灵网通讯增加网页刷新提醒"
+      },
+      {
+        "version": "1.0",
+        "date": "2026-02-26",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/wo-de-shi-zun.md",
+    "tags": ["纯爱", "古风", "御姐", "MVU"]
+  },
+  {
     "id": "san-ge-ji-jie-zhi-wai",
     "characterName": "白诗语",
     "name": "三个季节之外",
