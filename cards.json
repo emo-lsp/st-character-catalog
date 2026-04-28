@@ -435,6 +435,26 @@
     "tags": ["纯爱", "现代", "萝莉", "调教"]
   },
   {
+    "id": "xing-yin-mama-qin-shu-huai",
+    "characterName": "秦抒怀/姜南絮",
+    "name": "性瘾妈妈秦抒怀",
+    "version": "1.0",
+    "publishedAt": "2026-04-28",
+    "updatedAt": "2026-04-28",
+    "filename": "性瘾妈妈秦抒怀.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/xing-yin-mama-qin-shu-huai-1.0.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.0",
+        "date": "2026-04-28",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/xing-yin-mama-qin-shu-huai.md",
+    "tags": ["纯爱", "现代", "乱伦", "妈妈系", "MVU"]
+  },
+  {
     "id": "san-ge-ji-jie-zhi-wai",
     "characterName": "白诗语",
     "name": "三个季节之外",
