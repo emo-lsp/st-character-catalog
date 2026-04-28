@@ -340,6 +340,26 @@
     "tags": ["NTL", "纯爱", "乱伦", "萝莉", "人妻", "妈妈系", "MVU"]
   },
   {
+    "id": "chuan-yue-zha-die",
+    "characterName": "白毛妻子",
+    "name": "穿越渣爹",
+    "version": "1.0",
+    "publishedAt": "2026-02-02",
+    "updatedAt": "2026-02-02",
+    "filename": "穿越渣爹.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/chuan-yue-zha-die-1.0.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.0",
+        "date": "2026-02-02",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/chuan-yue-zha-die.md",
+    "tags": ["纯爱", "现代", "人妻", "MVU"]
+  },
+  {
     "id": "san-ge-ji-jie-zhi-wai",
     "characterName": "白诗语",
     "name": "三个季节之外",
