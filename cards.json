@@ -138,6 +138,36 @@
     "tags": ["NTL", "古风", "御姐", "人妻", "妈妈系", "同人", "MVU"]
   },
   {
+    "id": "luo-xue",
+    "characterName": "洛雪",
+    "name": "洛雪",
+    "version": "2.0",
+    "publishedAt": "2025-06-27",
+    "updatedAt": "2025-12-22",
+    "filename": "洛雪.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/luo-xue-2.0.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用\n\n当带[N]前缀的条目开启时，带[DLC]的条目需要关闭，反之亦然",
+    "changelog": [
+      {
+        "version": "2.0",
+        "date": "2025-12-22",
+        "content": "- 删除正文美化\n- 变量重构为MVU Zod\n- 增加一个可选DLC新角色——人工智能助手"
+      },
+      {
+        "version": "1.1",
+        "date": "2025-07-05",
+        "content": "- 小小更新，只做了新美化，应该更容易掉格式了"
+      },
+      {
+        "version": "1.0",
+        "date": "2025-06-27",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/luo-xue.md",
+    "tags": ["纯爱", "现代", "人外", "MVU"]
+  },
+  {
     "id": "xiao-mao-bai-yue-guang",
     "characterName": "柳婉仪",
     "name": "小猫咪与白月光",
