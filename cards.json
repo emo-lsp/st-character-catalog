@@ -846,13 +846,18 @@
     "id": "shui-ming-nv-zi-xue-yuan",
     "characterName": "水明女子学院",
     "name": "水明女子学院",
-    "version": "1.0",
+    "version": "1.1",
     "publishedAt": "2026-05-02 21:33:49",
-    "updatedAt": "2026-05-02 21:33:49",
+    "updatedAt": "2026-05-02 22:40:19",
     "filename": "水明女子学院.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/shui-ming-nv-zi-xue-yuan-1.0.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/shui-ming-nv-zi-xue-yuan-1.1.png",
     "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用\n- 适配MVU额外模型解析，如果DeepSeek掉格式可以选择此方法。开启方法：酒馆顶部三个正方体（扩展）- MVU 变量框架 - 变量更新方式 额外模型解析 - 其他按需配置",
     "changelog": [
+      {
+        "version": "1.1",
+        "date": "2026-05-02 22:40:19",
+        "content": "- 修改部分人设+反机器人化"
+      },
       {
         "version": "1.0",
         "date": "2026-05-02 21:33:49",
