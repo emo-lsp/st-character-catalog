@@ -288,13 +288,18 @@
     "id": "wo-dang-xi-tong",
     "characterName": "系统",
     "name": "我当系统？",
-    "version": "1.2",
+    "version": "1.3",
     "publishedAt": "2026-01-09",
-    "updatedAt": "2026-01-20",
+    "updatedAt": "2026-05-03 02:06:45",
     "filename": "我当系统？.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/wo-dang-xi-tong-1.2.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/wo-dang-xi-tong-1.3.png",
     "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
     "changelog": [
+      {
+        "version": "1.3",
+        "date": "2026-05-03 02:06:45",
+        "content": "- MVU适配额外模型解析"
+      },
       {
         "version": "1.2",
         "date": "2026-01-20",
