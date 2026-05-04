@@ -853,6 +853,25 @@
     "tags": ["NTL", "古风", "同人", "御姐", "人妻", "MVU"]
   },
   {
+    "id": "ren-zai-kun-lun",
+    "characterName": "西王母",
+    "name": "人在昆仑",
+    "version": "1.0",
+    "publishedAt": "2026-05-04 21:49:03",
+    "updatedAt": "2026-05-04 21:49:03",
+    "filename": "人在昆仑.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/ren-zai-kun-lun-1.0.png",
+    "changelog": [
+      {
+        "version": "1.0",
+        "date": "2026-05-04 21:49:03",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/ren-zai-kun-lun.md",
+    "tags": ["古风", "调教", "人妻", "同人", "NTL", "纯文字"]
+  },
+  {
     "id": "shui-ming-nv-zi-xue-yuan",
     "characterName": "水明女子学院",
     "name": "水明女子学院",
