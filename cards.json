@@ -856,12 +856,17 @@
     "id": "ren-zai-kun-lun",
     "characterName": "西王母",
     "name": "人在昆仑",
-    "version": "1.0",
+    "version": "1.1",
     "publishedAt": "2026-05-04 21:49:03",
-    "updatedAt": "2026-05-04 21:49:03",
+    "updatedAt": "2026-05-05 22:08:34",
     "filename": "人在昆仑.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/ren-zai-kun-lun-1.0.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/ren-zai-kun-lun-1.1.png",
     "changelog": [
+      {
+        "version": "1.1",
+        "date": "2026-05-05 22:08:34",
+        "content": "- 增加新角色 女娲圣人\n- 增加新角色 九尾狐狸精\n- 如果使用DeepSeek模型且想提高缓存命中概率，可手动把世界书中角色信息的绿灯改成蓝灯"
+      },
       {
         "version": "1.0",
         "date": "2026-05-04 21:49:03",
