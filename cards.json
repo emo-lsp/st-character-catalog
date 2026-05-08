@@ -860,13 +860,18 @@
   {
     "id": "ren-zai-kun-lun",
     "characterName": "西王母",
-    "name": "人在昆仑",
-    "version": "1.1",
+    "name": "昆仑群芳录",
+    "version": "1.2",
     "publishedAt": "2026-05-04 21:49:03",
-    "updatedAt": "2026-05-05 22:08:34",
-    "filename": "人在昆仑.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/ren-zai-kun-lun-1.1.png",
+    "updatedAt": "2026-05-08 20:10:13",
+    "filename": "昆仑群芳录.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/ren-zai-kun-lun-1.2.png",
     "changelog": [
+      {
+        "version": "1.2",
+        "date": "2026-05-08 20:10:13",
+        "content": "- 增加两个新角色的开场白\n- 增加新角色 广寒月神·嫦娥\n- 增加新角色 广寒仙侍·玉兔\n- 另外，如果是DeepSeek模型，又想提高缓存命中概率，但是又没用什么缓存优化之类的插件的话，可以手动把世界书中角色信息的绿灯改成蓝灯"
+      },
       {
         "version": "1.1",
         "date": "2026-05-05 22:08:34",
