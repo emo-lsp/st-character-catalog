@@ -328,13 +328,18 @@
     "id": "mu-shang-gong-lue",
     "characterName": "郑怡云",
     "name": "母上攻略",
-    "version": "1.1",
+    "version": "1.2",
     "publishedAt": "2026-01-13",
-    "updatedAt": "2026-01-21",
+    "updatedAt": "2026-05-09 23:00:36",
     "filename": "母上攻略.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/mu-shang-gong-lue-1.1.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/mu-shang-gong-lue-1.2.png",
     "playTips": "**游玩前须知**：\n\n- 凌小东 你是不是很得意\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
     "changelog": [
+      {
+        "version": "1.2",
+        "date": "2026-05-09 23:00:36",
+        "content": "- 增加一个数值钳制脚本\n- MVU适配额外模型解析"
+      },
       {
         "version": "1.1",
         "date": "2026-01-21",
