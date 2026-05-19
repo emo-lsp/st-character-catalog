@@ -945,5 +945,24 @@
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/pokemon-hana.md",
     "tags": ["NTR", "现代", "妈妈系", "NTL", "人妻", "MVU"]
+  },
+  {
+    "id": "luo-xue-tang",
+    "characterName": "洛雪棠",
+    "name": "洛雪棠",
+    "version": "1.0",
+    "publishedAt": "2026-05-20 00:43:29",
+    "updatedAt": "2026-05-20 00:45:46",
+    "filename": "洛雪棠.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/luo-xue-tang-1.0.png",
+    "changelog": [
+      {
+        "version": "1.0",
+        "date": "2026-05-20 00:43:29",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/luo-xue-tang.md",
+    "tags": ["纯爱", "纯文字", "现代"]
   }
 ]
