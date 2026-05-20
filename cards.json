@@ -1,177 +1,400 @@
 [
   {
-    "id": "ci-xiao-gui-zao-tang",
-    "characterName": "千夏/真冬",
-    "name": "雌小鬼澡堂",
+    "id": "luo-xue-tang",
+    "characterName": "洛雪棠",
+    "name": "洛雪棠",
     "version": "1.0",
-    "publishedAt": "2025-10-04",
-    "updatedAt": "2025-10-04",
-    "filename": "雌小鬼澡堂.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/ci-xiao-gui-zao-tang-1.0.png",
+    "publishedAt": "2026-05-20 00:43:29",
+    "updatedAt": "2026-05-20 00:45:46",
+    "filename": "洛雪棠.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/luo-xue-tang-1.0.png",
     "changelog": [
       {
         "version": "1.0",
-        "date": "2025-10-04",
+        "date": "2026-05-20 00:43:29",
         "content": "首次发布。"
       }
     ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/ci-xiao-gui-zao-tang.md",
-    "tags": ["纯爱", "现代", "萝莉", "纯文字"]
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/luo-xue-tang.md",
+    "tags": [
+      "纯爱",
+      "纯文字",
+      "现代"
+    ]
   },
   {
-    "id": "bao-bei-mama-xiao-ma",
-    "characterName": "林暖",
-    "name": "宝贝，妈妈只是在写小说啊小马版",
-    "version": "1.4",
-    "publishedAt": "2025-10-10",
-    "updatedAt": "2026-03-04",
-    "filename": "宝贝，妈妈只是在写小说啊小马版.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/bao-bei-mama-xiao-ma-1.4.png",
-    "playTips": "**游玩前须知**：\n\n- 虽然但是...插图不是小马，因为最初版是大学生<user>，参赛改的小马\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "id": "ren-zai-kun-lun",
+    "characterName": "西王母",
+    "name": "昆仑群芳录",
+    "version": "1.2",
+    "publishedAt": "2026-05-04 21:49:03",
+    "updatedAt": "2026-05-08 20:10:13",
+    "filename": "昆仑群芳录.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/ren-zai-kun-lun-1.2.png",
     "changelog": [
       {
-        "version": "1.4",
-        "date": "2026-03-04",
-        "content": "- 更换图床，修复图片无法显示的问题\n- 微调人设"
-      },
-      {
-        "version": "1.3",
-        "date": "2025-11-28",
-        "content": "- MVU变量相关全面更新至MVU Zod"
-      },
-      {
         "version": "1.2",
-        "date": "2025-10-11",
-        "content": "- 小修补"
+        "date": "2026-05-08 20:10:13",
+        "content": "- 增加两个新角色的开场白\n- 增加新角色 广寒月神·嫦娥\n- 增加新角色 广寒仙侍·玉兔\n- 另外，如果是DeepSeek模型，又想提高缓存命中概率，但是又没用什么缓存优化之类的插件的话，可以手动把世界书中角色信息的绿灯改成蓝灯"
       },
       {
         "version": "1.1",
-        "date": "2025-10-10",
-        "content": "- 修女主年龄"
+        "date": "2026-05-05 22:08:34",
+        "content": "- 增加新角色 女娲圣人 （这是真·妈妈级别了吧）\n- 增加新角色 九尾狐狸精 （但是我魔改了，改成她派手下附身妲己，她自己还是处嘻嘻😁）\n- 如果使用DeepSeek模型且想提高缓存命中概率，可手动把世界书中角色信息的绿灯改成蓝灯"
       },
       {
         "version": "1.0",
-        "date": "2025-10-10",
+        "date": "2026-05-04 21:49:03",
         "content": "首次发布。"
       }
     ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/bao-bei-mama-xiao-ma.md",
-    "tags": ["NTL", "现代", "插图", "乱伦", "人妻", "妈妈系", "MVU"]
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/ren-zai-kun-lun.md",
+    "tags": [
+      "古风",
+      "调教",
+      "人妻",
+      "同人",
+      "NTL",
+      "纯文字"
+    ]
   },
   {
-    "id": "xue-jian-qian-he",
-    "characterName": "雪见千鹤",
-    "name": "雪见千鹤",
+    "id": "shui-ming-nv-zi-xue-yuan",
+    "characterName": "水明女子学院",
+    "name": "水明女子学院",
     "version": "1.1",
-    "publishedAt": "2025-10-23",
-    "updatedAt": "2025-10-24",
-    "filename": "雪见千鹤.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/xue-jian-qian-he-1.1.png",
+    "publishedAt": "2026-05-02 21:33:49",
+    "updatedAt": "2026-05-02 22:40:19",
+    "filename": "水明女子学院.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/shui-ming-nv-zi-xue-yuan-1.1.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用\n- 适配MVU额外模型解析，如果DeepSeek掉格式可以选择此方法。开启方法：酒馆顶部三个正方体（扩展）- MVU 变量框架 - 变量更新方式 额外模型解析 - 其他按需配置",
+    "changelog": [
+      {
+        "version": "1.1",
+        "date": "2026-05-02 22:40:19",
+        "content": "- 修改部分人设+反机器人化"
+      },
+      {
+        "version": "1.0",
+        "date": "2026-05-02 21:33:49",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/shui-ming-nv-zi-xue-yuan.md",
+    "tags": [
+      "现代",
+      "御姐",
+      "纯爱",
+      "MVU"
+    ]
+  },
+  {
+    "id": "xing-yin-mama-qin-shu-huai",
+    "characterName": "秦抒怀/姜南絮",
+    "name": "性瘾妈妈秦抒怀",
+    "version": "1.1",
+    "publishedAt": "2026-04-28",
+    "updatedAt": "2026-04-29",
+    "filename": "性瘾妈妈秦抒怀.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/xing-yin-mama-qin-shu-huai-1.1.png",
     "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
     "changelog": [
       {
         "version": "1.1",
-        "date": "2025-10-24",
-        "content": "- 修复偏离日常的内容问题"
+        "date": "2026-04-29",
+        "content": "- 完全排除小南絮可能有的感情前史设定\n- 修`药剂缓解方法体系`条目的一个小错误"
       },
       {
         "version": "1.0",
-        "date": "2025-10-23",
+        "date": "2026-04-28",
         "content": "首次发布。"
       }
     ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/xue-jian-qian-he.md",
-    "tags": ["纯爱", "现代", "乱伦", "萝莉", "妈妈系", "MVU"]
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/xing-yin-mama-qin-shu-huai.md",
+    "tags": [
+      "纯爱",
+      "现代",
+      "乱伦",
+      "妈妈系",
+      "MVU"
+    ]
   },
   {
-    "id": "xian-xia-ci-jing-lu-ding",
-    "characterName": "虞清寒/殷妙烟/秦素霜/江小鲤",
-    "name": "仙侠雌竞-我是炉鼎体质",
-    "version": "1.7",
-    "publishedAt": "2025-10-25",
-    "updatedAt": "2026-02-20",
-    "filename": "仙侠雌竞-我是炉鼎体质.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/xian-xia-ci-jing-lu-ding-1.7.png",
+    "id": "mo-ban-che-de-cheng-xiao-man",
+    "characterName": "程小满",
+    "name": "末班车的程小满",
+    "version": "1.1",
+    "publishedAt": "2026-03-26",
+    "updatedAt": "2026-03-27",
+    "filename": "末班车的程小满.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/mo-ban-che-de-cheng-xiao-man-1.1.png",
     "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
     "changelog": [
       {
-        "version": "1.7",
-        "date": "2026-02-20",
-        "content": "- 前端小修\n- 优化MVU变量数值增减的问题"
+        "version": "1.1",
+        "date": "2026-03-27",
+        "content": "- 经群友建议，程刚原设定不合理（二线城市电焊夜班工资很高），现在修改程刚的相关设定为普通流水线工人，然后凌晨下班会直接去商k不留什么钱\n- 程刚从「被动缺位的苦力父亲」变成「主动逃避的堕落父亲」"
       },
       {
-        "version": "1.6",
-        "date": "2025-11-30",
-        "content": "- MVU变量全面更新至MVU Zod"
+        "version": "1.0",
+        "date": "2026-03-26",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/mo-ban-che-de-cheng-xiao-man.md",
+    "tags": [
+      "纯爱",
+      "现代",
+      "萝莉",
+      "调教"
+    ]
+  },
+  {
+    "id": "sao-zi-bu-ke-yi",
+    "characterName": "秦小月",
+    "name": "嫂子不可以",
+    "version": "1.1",
+    "publishedAt": "2026-03-02",
+    "updatedAt": "2026-03-03",
+    "filename": "嫂子不可以.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/sao-zi-bu-ke-yi-1.1.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.1",
+        "date": "2026-03-03",
+        "content": "- 修复开场白一个小问题"
       },
       {
-        "version": "1.5",
-        "date": "2025-11-21",
-        "content": "- 适配Gemini3.0的变量更新"
+        "version": "1.0",
+        "date": "2026-03-02",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/sao-zi-bu-ke-yi.md",
+    "tags": [
+      "NTL",
+      "现代",
+      "人妻",
+      "调教",
+      "MVU"
+    ]
+  },
+  {
+    "id": "wo-de-shi-zun",
+    "characterName": "姬云舒",
+    "name": "我的师尊是论坛榜一大姐",
+    "version": "1.1",
+    "publishedAt": "2026-02-26",
+    "updatedAt": "2026-03-01",
+    "filename": "我的师尊是论坛榜一大姐.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/wo-de-shi-zun-1.1.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.1",
+        "date": "2026-03-01",
+        "content": "- 支持角色卡自动更新\n- 为九州灵网通讯增加网页刷新提醒"
       },
+      {
+        "version": "1.0",
+        "date": "2026-02-26",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/wo-de-shi-zun.md",
+    "tags": [
+      "纯爱",
+      "古风",
+      "御姐",
+      "MVU"
+    ]
+  },
+  {
+    "id": "chuan-yue-zha-die",
+    "characterName": "白毛妻子",
+    "name": "穿越渣爹",
+    "version": "1.1",
+    "publishedAt": "2026-02-02",
+    "updatedAt": "2026-05-04 16:38:48",
+    "filename": "穿越渣爹.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/chuan-yue-zha-die-1.1.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.1",
+        "date": "2026-05-04 16:38:48",
+        "content": "- MVU适配额外模型解析"
+      },
+      {
+        "version": "1.0",
+        "date": "2026-02-02",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/chuan-yue-zha-die.md",
+    "tags": [
+      "纯爱",
+      "现代",
+      "人妻",
+      "MVU"
+    ]
+  },
+  {
+    "id": "mu-shang-gong-lue",
+    "characterName": "郑怡云",
+    "name": "母上攻略",
+    "version": "1.2",
+    "publishedAt": "2026-01-13",
+    "updatedAt": "2026-05-09 23:00:36",
+    "filename": "母上攻略.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/mu-shang-gong-lue-1.2.png",
+    "playTips": "**游玩前须知**：\n\n- 凌小东 你是不是很得意\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.2",
+        "date": "2026-05-09 23:00:36",
+        "content": "- 增加一个数值钳制脚本\n- MVU适配额外模型解析"
+      },
+      {
+        "version": "1.1",
+        "date": "2026-01-21",
+        "content": "- 世界书缩减大约5000token"
+      },
+      {
+        "version": "1.0",
+        "date": "2026-01-13",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/mu-shang-gong-lue.md",
+    "tags": [
+      "NTL",
+      "纯爱",
+      "乱伦",
+      "萝莉",
+      "人妻",
+      "妈妈系",
+      "MVU"
+    ]
+  },
+  {
+    "id": "wo-dang-xi-tong",
+    "characterName": "系统",
+    "name": "我当系统？",
+    "version": "1.4",
+    "publishedAt": "2026-01-09",
+    "updatedAt": "2026-05-10 02:16:01",
+    "filename": "我当系统？.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/wo-dang-xi-tong-1.4.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
       {
         "version": "1.4",
-        "date": "2025-11-03",
-        "content": "- 添加圣女秦素霜插图349张"
+        "date": "2026-05-10 02:16:01",
+        "content": "- 修复无法编辑属性点的问题"
       },
       {
         "version": "1.3",
-        "date": "2025-10-30",
-        "content": "- 添加魔门殷妙烟插图262张\n- 优化前端性能"
+        "date": "2026-05-03 02:06:45",
+        "content": "- MVU适配额外模型解析"
       },
       {
         "version": "1.2",
-        "date": "2025-10-27",
-        "content": "- 添加青梅江小鲤插图455张"
+        "date": "2026-01-20",
+        "content": "- 新增NPC面板\n- 商城增加抽奖功能\n- 选择器和状态栏变量增加男娘、扶她可选性别\n- 为宿主和系统增加DND六维和能力列表相关内容"
       },
       {
         "version": "1.1",
-        "date": "2025-10-26",
-        "content": "- 世界书重新排序\n- 修复数个严重错误"
+        "date": "2026-01-10",
+        "content": "- 修复对系统态度显示不准确的问题\n- 任务面板增加失败按钮\n- 控制面板增加系统干预指令"
       },
       {
         "version": "1.0",
-        "date": "2025-10-25",
+        "date": "2026-01-09",
         "content": "首次发布。"
       }
     ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/xian-xia-ci-jing-lu-ding.md",
-    "tags": ["纯爱", "古风", "插图", "御姐", "妈妈系", "MVU"]
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/wo-dang-xi-tong.md",
+    "tags": [
+      "沙盒",
+      "系统",
+      "MVU"
+    ]
   },
   {
-    "id": "er-zi-de-fu-dao-yuan",
-    "characterName": "许婉如",
-    "name": "儿子的专属辅导员",
-    "version": "1.3",
-    "publishedAt": "2025-11-12",
-    "updatedAt": "2026-01-09",
-    "filename": "儿子的专属辅导员.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/er-zi-de-fu-dao-yuan-1.3.png",
+    "id": "shi-er-nian-de-dong-xia",
+    "characterName": "母亲",
+    "name": "十二年的冬夏",
+    "version": "1.2",
+    "publishedAt": "2025-12-31",
+    "updatedAt": "2026-04-29",
+    "filename": "十二年的冬夏.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/shi-er-nian-de-dong-xia-1.2.png",
     "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
     "changelog": [
       {
-        "version": "1.3",
-        "date": "2026-01-09",
-        "content": "- 变量更新为MVU Zod结构\n- 增加新角色和开场白——程明远的私人助理，有恋父情结的温晴姐姐"
-      },
-      {
         "version": "1.2",
-        "date": "2025-11-24",
-        "content": "- 变量适配Gemini3.0"
+        "date": "2026-04-29",
+        "content": "- 适配MVU额外模型解析"
       },
       {
         "version": "1.1",
-        "date": "2025-11-16",
-        "content": "- 添加判断变量的小cot\n- 重写父亲和<user>的部分人设和三个开场白\n- 增加父亲的掌控值分阶段人设"
+        "date": "2026-01-05",
+        "content": "- 修复资料中年龄跨度不准确的问题\n- 把母亲的亲密度和愧疚感都拉高到200\n- 选项和状态栏前端优化\n- 状态栏新增快捷修改MVU变量的功能"
       },
       {
         "version": "1.0",
-        "date": "2025-11-12",
+        "date": "2025-12-31",
         "content": "首次发布。"
       }
     ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/er-zi-de-fu-dao-yuan.md",
-    "tags": ["NTL", "现代", "乱伦", "御姐", "妈妈系", "MVU"]
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/shi-er-nian-de-dong-xia.md",
+    "tags": [
+      "NTL",
+      "现代",
+      "人妻",
+      "乱伦",
+      "妈妈系",
+      "MVU"
+    ]
+  },
+  {
+    "id": "ci-xiao-gui-cheng-jie-zhe",
+    "characterName": "雌小鬼们",
+    "name": "雌小鬼惩戒者",
+    "version": "1.2",
+    "publishedAt": "2025-12-21",
+    "updatedAt": "2026-05-06 01:42:26",
+    "filename": "雌小鬼惩戒者.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/ci-xiao-gui-cheng-jie-zhe-1.2.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.2",
+        "date": "2026-05-06 01:42:26",
+        "content": "- MVU适配额外模型解析"
+      },
+      {
+        "version": "1.1",
+        "date": "2025-12-30",
+        "content": "- 语料更新\n- 修复惩戒点数更新错误\n- 搜索面板增加同人搜索项\n- 增加3个新技能：意识入侵、肉体改造、记忆篡改\n- 若干商城道具，优化世界书绿灯条目，开局缩减5707token"
+      },
+      {
+        "version": "1.0",
+        "date": "2025-12-21",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/ci-xiao-gui-cheng-jie-zhe.md",
+    "tags": [
+      "NTL",
+      "现代",
+      "萝莉",
+      "调教",
+      "沙盒",
+      "MVU"
+    ]
   },
   {
     "id": "qi-yue-lun-tan",
@@ -227,430 +450,348 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/qi-yue-lun-tan.md",
-    "tags": ["NTL", "现代", "插图", "人妻", "调教", "沙盒", "MVU"]
+    "tags": [
+      "NTL",
+      "现代",
+      "插图",
+      "人妻",
+      "调教",
+      "沙盒",
+      "MVU"
+    ]
   },
   {
-    "id": "ci-xiao-gui-cheng-jie-zhe",
-    "characterName": "雌小鬼们",
-    "name": "雌小鬼惩戒者",
-    "version": "1.2",
-    "publishedAt": "2025-12-21",
-    "updatedAt": "2026-05-06 01:42:26",
-    "filename": "雌小鬼惩戒者.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/ci-xiao-gui-cheng-jie-zhe-1.2.png",
+    "id": "er-zi-de-fu-dao-yuan",
+    "characterName": "许婉如",
+    "name": "儿子的专属辅导员",
+    "version": "1.3",
+    "publishedAt": "2025-11-12",
+    "updatedAt": "2026-01-09",
+    "filename": "儿子的专属辅导员.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/er-zi-de-fu-dao-yuan-1.3.png",
     "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
     "changelog": [
       {
+        "version": "1.3",
+        "date": "2026-01-09",
+        "content": "- 变量更新为MVU Zod结构\n- 增加新角色和开场白——程明远的私人助理，有恋父情结的温晴姐姐"
+      },
+      {
         "version": "1.2",
-        "date": "2026-05-06 01:42:26",
-        "content": "- MVU适配额外模型解析"
+        "date": "2025-11-24",
+        "content": "- 变量适配Gemini3.0"
       },
       {
         "version": "1.1",
-        "date": "2025-12-30",
-        "content": "- 语料更新\n- 修复惩戒点数更新错误\n- 搜索面板增加同人搜索项\n- 增加3个新技能：意识入侵、肉体改造、记忆篡改\n- 若干商城道具，优化世界书绿灯条目，开局缩减5707token"
+        "date": "2025-11-16",
+        "content": "- 添加判断变量的小cot\n- 重写父亲和<user>的部分人设和三个开场白\n- 增加父亲的掌控值分阶段人设"
       },
       {
         "version": "1.0",
-        "date": "2025-12-21",
+        "date": "2025-11-12",
         "content": "首次发布。"
       }
     ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/ci-xiao-gui-cheng-jie-zhe.md",
-    "tags": ["NTL", "现代", "萝莉", "调教", "沙盒", "MVU"]
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/er-zi-de-fu-dao-yuan.md",
+    "tags": [
+      "NTL",
+      "现代",
+      "乱伦",
+      "御姐",
+      "妈妈系",
+      "MVU"
+    ]
   },
   {
-    "id": "shi-er-nian-de-dong-xia",
-    "characterName": "母亲",
-    "name": "十二年的冬夏",
-    "version": "1.2",
-    "publishedAt": "2025-12-31",
-    "updatedAt": "2026-04-29",
-    "filename": "十二年的冬夏.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/shi-er-nian-de-dong-xia-1.2.png",
+    "id": "xian-xia-ci-jing-lu-ding",
+    "characterName": "虞清寒/殷妙烟/秦素霜/江小鲤",
+    "name": "仙侠雌竞-我是炉鼎体质",
+    "version": "1.7",
+    "publishedAt": "2025-10-25",
+    "updatedAt": "2026-02-20",
+    "filename": "仙侠雌竞-我是炉鼎体质.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/xian-xia-ci-jing-lu-ding-1.7.png",
     "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
     "changelog": [
       {
-        "version": "1.2",
-        "date": "2026-04-29",
-        "content": "- 适配MVU额外模型解析"
+        "version": "1.7",
+        "date": "2026-02-20",
+        "content": "- 前端小修\n- 优化MVU变量数值增减的问题"
       },
       {
-        "version": "1.1",
-        "date": "2026-01-05",
-        "content": "- 修复资料中年龄跨度不准确的问题\n- 把母亲的亲密度和愧疚感都拉高到200\n- 选项和状态栏前端优化\n- 状态栏新增快捷修改MVU变量的功能"
+        "version": "1.6",
+        "date": "2025-11-30",
+        "content": "- MVU变量全面更新至MVU Zod"
       },
       {
-        "version": "1.0",
-        "date": "2025-12-31",
-        "content": "首次发布。"
-      }
-    ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/shi-er-nian-de-dong-xia.md",
-    "tags": ["NTL", "现代", "人妻", "乱伦", "妈妈系", "MVU"]
-  },
-  {
-    "id": "wo-dang-xi-tong",
-    "characterName": "系统",
-    "name": "我当系统？",
-    "version": "1.4",
-    "publishedAt": "2026-01-09",
-    "updatedAt": "2026-05-10 02:16:01",
-    "filename": "我当系统？.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/wo-dang-xi-tong-1.4.png",
-    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
-    "changelog": [
+        "version": "1.5",
+        "date": "2025-11-21",
+        "content": "- 适配Gemini3.0的变量更新"
+      },
       {
         "version": "1.4",
-        "date": "2026-05-10 02:16:01",
-        "content": "- 修复无法编辑属性点的问题"
+        "date": "2025-11-03",
+        "content": "- 添加圣女秦素霜插图349张"
       },
       {
         "version": "1.3",
-        "date": "2026-05-03 02:06:45",
-        "content": "- MVU适配额外模型解析"
+        "date": "2025-10-30",
+        "content": "- 添加魔门殷妙烟插图262张\n- 优化前端性能"
       },
       {
         "version": "1.2",
-        "date": "2026-01-20",
-        "content": "- 新增NPC面板\n- 商城增加抽奖功能\n- 选择器和状态栏变量增加男娘、扶她可选性别\n- 为宿主和系统增加DND六维和能力列表相关内容"
+        "date": "2025-10-27",
+        "content": "- 添加青梅江小鲤插图455张"
       },
       {
         "version": "1.1",
-        "date": "2026-01-10",
-        "content": "- 修复对系统态度显示不准确的问题\n- 任务面板增加失败按钮\n- 控制面板增加系统干预指令"
+        "date": "2025-10-26",
+        "content": "- 世界书重新排序\n- 修复数个严重错误"
       },
       {
         "version": "1.0",
-        "date": "2026-01-09",
+        "date": "2025-10-25",
         "content": "首次发布。"
       }
     ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/wo-dang-xi-tong.md",
-    "tags": ["沙盒", "系统", "MVU"]
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/xian-xia-ci-jing-lu-ding.md",
+    "tags": [
+      "纯爱",
+      "古风",
+      "插图",
+      "御姐",
+      "妈妈系",
+      "MVU"
+    ]
   },
   {
-    "id": "mu-shang-gong-lue",
-    "characterName": "郑怡云",
-    "name": "母上攻略",
-    "version": "1.2",
-    "publishedAt": "2026-01-13",
-    "updatedAt": "2026-05-09 23:00:36",
-    "filename": "母上攻略.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/mu-shang-gong-lue-1.2.png",
-    "playTips": "**游玩前须知**：\n\n- 凌小东 你是不是很得意\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "id": "xue-jian-qian-he",
+    "characterName": "雪见千鹤",
+    "name": "雪见千鹤",
+    "version": "1.1",
+    "publishedAt": "2025-10-23",
+    "updatedAt": "2025-10-24",
+    "filename": "雪见千鹤.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/xue-jian-qian-he-1.1.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
     "changelog": [
+      {
+        "version": "1.1",
+        "date": "2025-10-24",
+        "content": "- 修复偏离日常的内容问题"
+      },
+      {
+        "version": "1.0",
+        "date": "2025-10-23",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/xue-jian-qian-he.md",
+    "tags": [
+      "纯爱",
+      "现代",
+      "乱伦",
+      "萝莉",
+      "妈妈系",
+      "MVU"
+    ]
+  },
+  {
+    "id": "bao-bei-mama-xiao-ma",
+    "characterName": "林暖",
+    "name": "宝贝，妈妈只是在写小说啊小马版",
+    "version": "1.4",
+    "publishedAt": "2025-10-10",
+    "updatedAt": "2026-03-04",
+    "filename": "宝贝，妈妈只是在写小说啊小马版.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/bao-bei-mama-xiao-ma-1.4.png",
+    "playTips": "**游玩前须知**：\n\n- 虽然但是...插图不是小马，因为最初版是大学生<user>，参赛改的小马\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.4",
+        "date": "2026-03-04",
+        "content": "- 更换图床，修复图片无法显示的问题\n- 微调人设"
+      },
+      {
+        "version": "1.3",
+        "date": "2025-11-28",
+        "content": "- MVU变量相关全面更新至MVU Zod"
+      },
       {
         "version": "1.2",
-        "date": "2026-05-09 23:00:36",
-        "content": "- 增加一个数值钳制脚本\n- MVU适配额外模型解析"
+        "date": "2025-10-11",
+        "content": "- 小修补"
       },
       {
         "version": "1.1",
-        "date": "2026-01-21",
-        "content": "- 世界书缩减大约5000token"
+        "date": "2025-10-10",
+        "content": "- 修女主年龄"
       },
       {
         "version": "1.0",
-        "date": "2026-01-13",
+        "date": "2025-10-10",
         "content": "首次发布。"
       }
     ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/mu-shang-gong-lue.md",
-    "tags": ["NTL", "纯爱", "乱伦", "萝莉", "人妻", "妈妈系", "MVU"]
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/bao-bei-mama-xiao-ma.md",
+    "tags": [
+      "NTL",
+      "现代",
+      "插图",
+      "乱伦",
+      "人妻",
+      "妈妈系",
+      "MVU"
+    ]
   },
   {
-    "id": "chuan-yue-zha-die",
-    "characterName": "白毛妻子",
-    "name": "穿越渣爹",
-    "version": "1.1",
-    "publishedAt": "2026-02-02",
-    "updatedAt": "2026-05-04 16:38:48",
-    "filename": "穿越渣爹.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/chuan-yue-zha-die-1.1.png",
-    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
-    "changelog": [
-      {
-        "version": "1.1",
-        "date": "2026-05-04 16:38:48",
-        "content": "- MVU适配额外模型解析"
-      },
-      {
-        "version": "1.0",
-        "date": "2026-02-02",
-        "content": "首次发布。"
-      }
-    ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/chuan-yue-zha-die.md",
-    "tags": ["纯爱", "现代", "人妻", "MVU"]
-  },
-  {
-    "id": "wo-de-shi-zun",
-    "characterName": "姬云舒",
-    "name": "我的师尊是论坛榜一大姐",
-    "version": "1.1",
-    "publishedAt": "2026-02-26",
-    "updatedAt": "2026-03-01",
-    "filename": "我的师尊是论坛榜一大姐.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/wo-de-shi-zun-1.1.png",
-    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
-    "changelog": [
-      {
-        "version": "1.1",
-        "date": "2026-03-01",
-        "content": "- 支持角色卡自动更新\n- 为九州灵网通讯增加网页刷新提醒"
-      },
-      {
-        "version": "1.0",
-        "date": "2026-02-26",
-        "content": "首次发布。"
-      }
-    ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/wo-de-shi-zun.md",
-    "tags": ["纯爱", "古风", "御姐", "MVU"]
-  },
-  {
-    "id": "sao-zi-bu-ke-yi",
-    "characterName": "秦小月",
-    "name": "嫂子不可以",
-    "version": "1.1",
-    "publishedAt": "2026-03-02",
-    "updatedAt": "2026-03-03",
-    "filename": "嫂子不可以.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/sao-zi-bu-ke-yi-1.1.png",
-    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
-    "changelog": [
-      {
-        "version": "1.1",
-        "date": "2026-03-03",
-        "content": "- 修复开场白一个小问题"
-      },
-      {
-        "version": "1.0",
-        "date": "2026-03-02",
-        "content": "首次发布。"
-      }
-    ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/sao-zi-bu-ke-yi.md",
-    "tags": ["NTL", "现代", "人妻", "调教", "MVU"]
-  },
-  {
-    "id": "mo-ban-che-de-cheng-xiao-man",
-    "characterName": "程小满",
-    "name": "末班车的程小满",
-    "version": "1.1",
-    "publishedAt": "2026-03-26",
-    "updatedAt": "2026-03-27",
-    "filename": "末班车的程小满.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/mo-ban-che-de-cheng-xiao-man-1.1.png",
-    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
-    "changelog": [
-      {
-        "version": "1.1",
-        "date": "2026-03-27",
-        "content": "- 经群友建议，程刚原设定不合理（二线城市电焊夜班工资很高），现在修改程刚的相关设定为普通流水线工人，然后凌晨下班会直接去商k不留什么钱\n- 程刚从「被动缺位的苦力父亲」变成「主动逃避的堕落父亲」"
-      },
-      {
-        "version": "1.0",
-        "date": "2026-03-26",
-        "content": "首次发布。"
-      }
-    ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/mo-ban-che-de-cheng-xiao-man.md",
-    "tags": ["纯爱", "现代", "萝莉", "调教"]
-  },
-  {
-    "id": "xing-yin-mama-qin-shu-huai",
-    "characterName": "秦抒怀/姜南絮",
-    "name": "性瘾妈妈秦抒怀",
-    "version": "1.1",
-    "publishedAt": "2026-04-28",
-    "updatedAt": "2026-04-29",
-    "filename": "性瘾妈妈秦抒怀.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/xing-yin-mama-qin-shu-huai-1.1.png",
-    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
-    "changelog": [
-      {
-        "version": "1.1",
-        "date": "2026-04-29",
-        "content": "- 完全排除小南絮可能有的感情前史设定\n- 修`药剂缓解方法体系`条目的一个小错误"
-      },
-      {
-        "version": "1.0",
-        "date": "2026-04-28",
-        "content": "首次发布。"
-      }
-    ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/xing-yin-mama-qin-shu-huai.md",
-    "tags": ["纯爱", "现代", "乱伦", "妈妈系", "MVU"]
-  },
-  {
-    "id": "san-ge-ji-jie-zhi-wai",
-    "characterName": "白诗语",
-    "name": "三个季节之外",
-    "version": "1.2",
-    "publishedAt": "2025-06-13",
-    "updatedAt": "2025-06-25",
-    "filename": "三个季节之外.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/san-ge-ji-jie-zhi-wai-1.2.png",
-    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
-    "changelog": [
-      {
-        "version": "1.2",
-        "date": "2025-06-25",
-        "content": "- 小修，应该不太会掉格式了"
-      },
-      {
-        "version": "1.0",
-        "date": "2025-06-13",
-        "content": "首次发布。"
-      }
-    ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/san-ge-ji-jie-zhi-wai.md",
-    "tags": ["乱伦", "纯爱", "现代", "父女", "MVU"]
-  },
-  {
-    "id": "dao-ming-si-ling-xiang",
-    "characterName": "道明寺绫香",
-    "name": "道明寺绫香",
-    "version": "1.1",
-    "publishedAt": "2025-06-15",
-    "updatedAt": "2025-06-22",
-    "filename": "道明寺绫香.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/dao-ming-si-ling-xiang-1.1.png",
-    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
-    "changelog": [
-      {
-        "version": "1.1",
-        "date": "2025-06-22",
-        "content": "- 小修，AI不发癫应该不那么容易掉格式了"
-      },
-      {
-        "version": "1.0",
-        "date": "2025-06-15",
-        "content": "首次发布。"
-      }
-    ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/dao-ming-si-ling-xiang.md",
-    "tags": ["乱伦", "NTL", "现代", "妈妈系", "人妻", "MVU"]
-  },
-  {
-    "id": "nv-you-xiao-ye",
-    "characterName": "小叶",
-    "name": "女友小叶",
-    "version": "1.1",
-    "publishedAt": "2025-06-19",
-    "updatedAt": "2025-06-21",
-    "filename": "女友小叶.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/nv-you-xiao-ye-1.1.png",
-    "changelog": [
-      {
-        "version": "1.1",
-        "date": "2025-06-21",
-        "content": "- 修了几个小错误"
-      },
-      {
-        "version": "1.0",
-        "date": "2025-06-19",
-        "content": "首次发布。"
-      }
-    ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/nv-you-xiao-ye.md",
-    "tags": ["NTL", "现代", "调教", "纯文字"]
-  },
-  {
-    "id": "nv-you-xiao-ye-baolu",
-    "characterName": "小叶",
-    "name": "女友小叶暴露调教篇",
+    "id": "ci-xiao-gui-zao-tang",
+    "characterName": "千夏/真冬",
+    "name": "雌小鬼澡堂",
     "version": "1.0",
-    "publishedAt": "2025-06-21",
-    "updatedAt": "2025-06-21",
-    "filename": "女友小叶暴露调教篇.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/nv-you-xiao-ye-baolu-1.0.png",
+    "publishedAt": "2025-10-04",
+    "updatedAt": "2025-10-04",
+    "filename": "雌小鬼澡堂.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/ci-xiao-gui-zao-tang-1.0.png",
     "changelog": [
       {
         "version": "1.0",
-        "date": "2025-06-21",
+        "date": "2025-10-04",
         "content": "首次发布。"
       }
     ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/nv-you-xiao-ye-baolu.md",
-    "tags": ["NTL", "现代", "调教", "女性视角", "纯文字"]
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/ci-xiao-gui-zao-tang.md",
+    "tags": [
+      "纯爱",
+      "现代",
+      "萝莉",
+      "纯文字"
+    ]
   },
   {
-    "id": "guan-mian-zhi-xia",
-    "characterName": "夏婉清/李月曦/慕容清影",
-    "name": "冠冕之下",
-    "version": "1.0",
-    "publishedAt": "2025-06-21",
-    "updatedAt": "2025-06-21",
-    "filename": "冠冕之下.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/guan-mian-zhi-xia-1.0.png",
+    "id": "yin-jian-bian-li-dian",
+    "characterName": "桜井美樱",
+    "name": "隐奸便利店",
+    "version": "2.1",
+    "publishedAt": "2025-08-05",
+    "updatedAt": "2025-08-14",
+    "filename": "隐奸便利店.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/yin-jian-bian-li-dian-2.1.png",
     "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
     "changelog": [
       {
-        "version": "1.0",
-        "date": "2025-06-21",
-        "content": "首次发布。"
-      }
-    ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/guan-mian-zhi-xia.md",
-    "tags": ["NTL", "现代", "御姐", "人妻", "妈妈系", "MVU"]
-  },
-  {
-    "id": "da-feng-da-geng-ren",
-    "characterName": "大奉群芳",
-    "name": "大奉打更人之寝取",
-    "version": "1.1",
-    "publishedAt": "2025-06-24",
-    "updatedAt": "2025-06-25",
-    "filename": "大奉打更人之寝取.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/da-feng-da-geng-ren-1.1.png",
-    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
-    "changelog": [
-      {
-        "version": "1.1",
-        "date": "2025-06-25",
-        "content": "- 忘了"
+        "version": "2.1",
+        "date": "2025-08-14",
+        "content": "- 小修复"
       },
-      {
-        "version": "1.0",
-        "date": "2025-06-24",
-        "content": "首次发布。"
-      }
-    ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/da-feng-da-geng-ren.md",
-    "tags": ["NTL", "古风", "御姐", "人妻", "妈妈系", "同人", "MVU"]
-  },
-  {
-    "id": "luo-xue",
-    "characterName": "洛雪",
-    "name": "洛雪",
-    "version": "2.0",
-    "publishedAt": "2025-06-27",
-    "updatedAt": "2025-12-22",
-    "filename": "洛雪.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/luo-xue-2.0.png",
-    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用\n\n当带[N]前缀的条目开启时，带[DLC]的条目需要关闭，反之亦然",
-    "changelog": [
       {
         "version": "2.0",
-        "date": "2025-12-22",
-        "content": "- 删除正文美化\n- 变量重构为MVU Zod\n- 增加一个可选DLC新角色——人工智能助手"
+        "date": "2025-08-13",
+        "content": "- 世界书调整，token量激增\n- 新增角色：美樱的母亲，桜井由美子\n- 美樱和由美子改为MVU分阶段，新增状态栏\n- 新增40张美樱插图，新增400张由美子插图"
+      },
+      {
+        "version": "1.2",
+        "date": "2025-08-07",
+        "content": "- 世界书视角和选项自由开关\n- 修改优化男友视角，防全知，遵循时空逻辑\n- 添加手机小剧场和日记小剧场\n- 新增115张插图"
       },
       {
         "version": "1.1",
-        "date": "2025-07-05",
-        "content": "- 小小更新，只做了新美化，应该更容易掉格式了"
+        "date": "2025-08-05",
+        "content": "- 修选项正则\n- 插图大小异常可切换备用显示方案"
       },
       {
         "version": "1.0",
-        "date": "2025-06-27",
+        "date": "2025-08-05",
         "content": "首次发布。"
       }
     ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/luo-xue.md",
-    "tags": ["纯爱", "现代", "人外", "MVU"]
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/yin-jian-bian-li-dian.md",
+    "tags": [
+      "NTL",
+      "现代",
+      "插图",
+      "人妻",
+      "妈妈系",
+      "MVU"
+    ]
+  },
+  {
+    "id": "luo-qing-yi",
+    "characterName": "洛轻漪",
+    "name": "洛轻漪",
+    "version": "1.2",
+    "publishedAt": "2025-08-02",
+    "updatedAt": "2025-08-08",
+    "filename": "洛轻漪.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/luo-qing-yi-1.2.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.2",
+        "date": "2025-08-08",
+        "content": "- 增加柳青青插图约240张\n- 柳青青身份从侍妾改成王妃\n- <user>身份从江南总督改成亲王\n- 洛轻漪/邵文修/柳青青的角色人设和数值阶段改成绿灯"
+      },
+      {
+        "version": "1.1",
+        "date": "2025-08-03",
+        "content": "- 故事基调加强NTL\n- 增加毒性值的增长频率\n- 再次强调各种数值不得超限\n- 增加邵文修的察觉值分阶段人设"
+      },
+      {
+        "version": "1.0",
+        "date": "2025-08-02",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/luo-qing-yi.md",
+    "tags": [
+      "NTL",
+      "古风",
+      "插图",
+      "纯爱",
+      "MVU"
+    ]
+  },
+  {
+    "id": "tao-hua-cun-de-gong-xi",
+    "characterName": "周语晴",
+    "name": "桃花村的公媳",
+    "version": "1.3",
+    "publishedAt": "2025-07-16",
+    "updatedAt": "2026-05-02 16:02:51",
+    "filename": "桃花村的公媳.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/tao-hua-cun-de-gong-xi-1.3.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.3",
+        "date": "2026-05-02 16:02:51",
+        "content": "- MVU适配额外模型解析\n- 新增MVU数值钳制脚本"
+      },
+      {
+        "version": "1.2",
+        "date": "2026-01-23",
+        "content": "- 把页面美化删了\n- 人设重写\n- 优化token\n- 改成MVU Zod\n- 加选项和状态栏\n- 图片不用梯了"
+      },
+      {
+        "version": "1.1",
+        "date": "2025-07-25",
+        "content": "- 特殊事件小修\n- 世界书重新排序\n- 去除大部分绝望类型的描写，但不包括角色第一阶段的情绪"
+      },
+      {
+        "version": "1.0",
+        "date": "2025-07-16",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/tao-hua-cun-de-gong-xi.md",
+    "tags": [
+      "NTL",
+      "现代",
+      "插图",
+      "人妻",
+      "乱伦",
+      "MVU"
+    ]
   },
   {
     "id": "tong-xue-ni-mama-hen-run",
@@ -700,112 +841,253 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/tong-xue-ni-mama-hen-run.md",
-    "tags": ["NTL", "现代", "插图", "人妻", "MVU"]
+    "tags": [
+      "NTL",
+      "现代",
+      "插图",
+      "人妻",
+      "MVU"
+    ]
   },
   {
-    "id": "tao-hua-cun-de-gong-xi",
-    "characterName": "周语晴",
-    "name": "桃花村的公媳",
-    "version": "1.3",
-    "publishedAt": "2025-07-16",
-    "updatedAt": "2026-05-02 16:02:51",
-    "filename": "桃花村的公媳.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/tao-hua-cun-de-gong-xi-1.3.png",
-    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "id": "luo-xue",
+    "characterName": "洛雪",
+    "name": "洛雪",
+    "version": "2.0",
+    "publishedAt": "2025-06-27",
+    "updatedAt": "2025-12-22",
+    "filename": "洛雪.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/luo-xue-2.0.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用\n\n当带[N]前缀的条目开启时，带[DLC]的条目需要关闭，反之亦然",
     "changelog": [
-      {
-        "version": "1.3",
-        "date": "2026-05-02 16:02:51",
-        "content": "- MVU适配额外模型解析\n- 新增MVU数值钳制脚本"
-      },
-      {
-        "version": "1.2",
-        "date": "2026-01-23",
-        "content": "- 把页面美化删了\n- 人设重写\n- 优化token\n- 改成MVU Zod\n- 加选项和状态栏\n- 图片不用梯了"
-      },
-      {
-        "version": "1.1",
-        "date": "2025-07-25",
-        "content": "- 特殊事件小修\n- 世界书重新排序\n- 去除大部分绝望类型的描写，但不包括角色第一阶段的情绪"
-      },
-      {
-        "version": "1.0",
-        "date": "2025-07-16",
-        "content": "首次发布。"
-      }
-    ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/tao-hua-cun-de-gong-xi.md",
-    "tags": ["NTL", "现代", "插图", "人妻", "乱伦", "MVU"]
-  },
-  {
-    "id": "luo-qing-yi",
-    "characterName": "洛轻漪",
-    "name": "洛轻漪",
-    "version": "1.2",
-    "publishedAt": "2025-08-02",
-    "updatedAt": "2025-08-08",
-    "filename": "洛轻漪.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/luo-qing-yi-1.2.png",
-    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
-    "changelog": [
-      {
-        "version": "1.2",
-        "date": "2025-08-08",
-        "content": "- 增加柳青青插图约240张\n- 柳青青身份从侍妾改成王妃\n- <user>身份从江南总督改成亲王\n- 洛轻漪/邵文修/柳青青的角色人设和数值阶段改成绿灯"
-      },
-      {
-        "version": "1.1",
-        "date": "2025-08-03",
-        "content": "- 故事基调加强NTL\n- 增加毒性值的增长频率\n- 再次强调各种数值不得超限\n- 增加邵文修的察觉值分阶段人设"
-      },
-      {
-        "version": "1.0",
-        "date": "2025-08-02",
-        "content": "首次发布。"
-      }
-    ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/luo-qing-yi.md",
-    "tags": ["NTL", "古风", "插图", "纯爱", "MVU"]
-  },
-  {
-    "id": "yin-jian-bian-li-dian",
-    "characterName": "桜井美樱",
-    "name": "隐奸便利店",
-    "version": "2.1",
-    "publishedAt": "2025-08-05",
-    "updatedAt": "2025-08-14",
-    "filename": "隐奸便利店.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/yin-jian-bian-li-dian-2.1.png",
-    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
-    "changelog": [
-      {
-        "version": "2.1",
-        "date": "2025-08-14",
-        "content": "- 小修复"
-      },
       {
         "version": "2.0",
-        "date": "2025-08-13",
-        "content": "- 世界书调整，token量激增\n- 新增角色：美樱的母亲，桜井由美子\n- 美樱和由美子改为MVU分阶段，新增状态栏\n- 新增40张美樱插图，新增400张由美子插图"
-      },
-      {
-        "version": "1.2",
-        "date": "2025-08-07",
-        "content": "- 世界书视角和选项自由开关\n- 修改优化男友视角，防全知，遵循时空逻辑\n- 添加手机小剧场和日记小剧场\n- 新增115张插图"
+        "date": "2025-12-22",
+        "content": "- 删除正文美化\n- 变量重构为MVU Zod\n- 增加一个可选DLC新角色——人工智能助手"
       },
       {
         "version": "1.1",
-        "date": "2025-08-05",
-        "content": "- 修选项正则\n- 插图大小异常可切换备用显示方案"
+        "date": "2025-07-05",
+        "content": "- 小小更新，只做了新美化，应该更容易掉格式了"
       },
       {
         "version": "1.0",
-        "date": "2025-08-05",
+        "date": "2025-06-27",
         "content": "首次发布。"
       }
     ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/yin-jian-bian-li-dian.md",
-    "tags": ["NTL", "现代", "插图", "人妻", "妈妈系", "MVU"]
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/luo-xue.md",
+    "tags": [
+      "纯爱",
+      "现代",
+      "人外",
+      "MVU"
+    ]
+  },
+  {
+    "id": "da-feng-da-geng-ren",
+    "characterName": "大奉群芳",
+    "name": "大奉打更人之寝取",
+    "version": "1.1",
+    "publishedAt": "2025-06-24",
+    "updatedAt": "2025-06-25",
+    "filename": "大奉打更人之寝取.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/da-feng-da-geng-ren-1.1.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.1",
+        "date": "2025-06-25",
+        "content": "- 忘了"
+      },
+      {
+        "version": "1.0",
+        "date": "2025-06-24",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/da-feng-da-geng-ren.md",
+    "tags": [
+      "NTL",
+      "古风",
+      "御姐",
+      "人妻",
+      "妈妈系",
+      "同人",
+      "MVU"
+    ]
+  },
+  {
+    "id": "nv-you-xiao-ye-baolu",
+    "characterName": "小叶",
+    "name": "女友小叶暴露调教篇",
+    "version": "1.0",
+    "publishedAt": "2025-06-21",
+    "updatedAt": "2025-06-21",
+    "filename": "女友小叶暴露调教篇.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/nv-you-xiao-ye-baolu-1.0.png",
+    "changelog": [
+      {
+        "version": "1.0",
+        "date": "2025-06-21",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/nv-you-xiao-ye-baolu.md",
+    "tags": [
+      "NTL",
+      "现代",
+      "调教",
+      "女性视角",
+      "纯文字"
+    ]
+  },
+  {
+    "id": "guan-mian-zhi-xia",
+    "characterName": "夏婉清/李月曦/慕容清影",
+    "name": "冠冕之下",
+    "version": "1.0",
+    "publishedAt": "2025-06-21",
+    "updatedAt": "2025-06-21",
+    "filename": "冠冕之下.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/guan-mian-zhi-xia-1.0.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.0",
+        "date": "2025-06-21",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/guan-mian-zhi-xia.md",
+    "tags": [
+      "NTL",
+      "现代",
+      "御姐",
+      "人妻",
+      "妈妈系",
+      "MVU"
+    ]
+  },
+  {
+    "id": "nv-you-xiao-ye",
+    "characterName": "小叶",
+    "name": "女友小叶",
+    "version": "1.1",
+    "publishedAt": "2025-06-19",
+    "updatedAt": "2025-06-21",
+    "filename": "女友小叶.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/nv-you-xiao-ye-1.1.png",
+    "changelog": [
+      {
+        "version": "1.1",
+        "date": "2025-06-21",
+        "content": "- 修了几个小错误"
+      },
+      {
+        "version": "1.0",
+        "date": "2025-06-19",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/nv-you-xiao-ye.md",
+    "tags": [
+      "NTL",
+      "现代",
+      "调教",
+      "纯文字"
+    ]
+  },
+  {
+    "id": "dao-ming-si-ling-xiang",
+    "characterName": "道明寺绫香",
+    "name": "道明寺绫香",
+    "version": "1.1",
+    "publishedAt": "2025-06-15",
+    "updatedAt": "2025-06-22",
+    "filename": "道明寺绫香.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/dao-ming-si-ling-xiang-1.1.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.1",
+        "date": "2025-06-22",
+        "content": "- 小修，AI不发癫应该不那么容易掉格式了"
+      },
+      {
+        "version": "1.0",
+        "date": "2025-06-15",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/dao-ming-si-ling-xiang.md",
+    "tags": [
+      "乱伦",
+      "NTL",
+      "现代",
+      "妈妈系",
+      "人妻",
+      "MVU"
+    ]
+  },
+  {
+    "id": "san-ge-ji-jie-zhi-wai",
+    "characterName": "白诗语",
+    "name": "三个季节之外",
+    "version": "1.2",
+    "publishedAt": "2025-06-13",
+    "updatedAt": "2025-06-25",
+    "filename": "三个季节之外.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/san-ge-ji-jie-zhi-wai-1.2.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.2",
+        "date": "2025-06-25",
+        "content": "- 小修，应该不太会掉格式了"
+      },
+      {
+        "version": "1.0",
+        "date": "2025-06-13",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/san-ge-ji-jie-zhi-wai.md",
+    "tags": [
+      "乱伦",
+      "纯爱",
+      "现代",
+      "父女",
+      "MVU"
+    ]
+  },
+  {
+    "id": "xing-pi-da-shi-jie",
+    "characterName": "性癖大世界",
+    "name": "性癖大世界",
+    "version": "1.5.1",
+    "publishedAt": "2025-06-10 23:08:00",
+    "updatedAt": "2026-05-21 00:23:07",
+    "filename": "性癖大世界.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/xing-pi-da-shi-jie-1.5.1.png",
+    "playTips": "**游玩本卡需要安装提示词模板和酒馆助手**\n\n游玩过程中你需要注意状态栏的`当前性癖`名字和世界书条目一致",
+    "changelog": [
+      {
+        "version": "1.5.1",
+        "date": "2026-05-21 00:23:07",
+        "content": "- MVU适配额外模型解析"
+      },
+      {
+        "version": "1.5",
+        "date": "2026-01-26 22:45:00",
+        "content": "- 增加25个性癖/玩法\n- 完全重构选择界面前端和状态栏\n- 在选择界面可以**快捷查看**当前性癖的内容\n- 在选择界面可以**快捷收藏**你喜欢的性癖\n- 在选择界面可以**快捷保存和读取**你的设定\n- 设定数据和收藏内容，存储在当前**角色卡世界书**中，如果角色卡有更新，可以在世界书列表的搜索框搜索 `快捷设定`、`性癖收藏`，把这两个条目的内容**复制到新版世界书**就可以。\n- 注意：性癖收藏世界书条目**不用开启**。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/xing-pi-da-shi-jie.md",
+    "tags": [
+      "沙盒",
+      "MVU"
+    ]
   },
   {
     "id": "xiao-mao-bai-yue-guang",
@@ -835,7 +1117,12 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/xiao-mao-bai-yue-guang.md",
-    "tags": ["古风", "御姐", "纯爱", "MVU"]
+    "tags": [
+      "古风",
+      "御姐",
+      "纯爱",
+      "MVU"
+    ]
   },
   {
     "id": "ji-pin-jia-ding",
@@ -865,85 +1152,14 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/ji-pin-jia-ding.md",
-    "tags": ["NTL", "古风", "同人", "御姐", "人妻", "MVU"]
-  },
-  {
-    "id": "ren-zai-kun-lun",
-    "characterName": "西王母",
-    "name": "昆仑群芳录",
-    "version": "1.2",
-    "publishedAt": "2026-05-04 21:49:03",
-    "updatedAt": "2026-05-08 20:10:13",
-    "filename": "昆仑群芳录.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/ren-zai-kun-lun-1.2.png",
-    "changelog": [
-      {
-        "version": "1.2",
-        "date": "2026-05-08 20:10:13",
-        "content": "- 增加两个新角色的开场白\n- 增加新角色 广寒月神·嫦娥\n- 增加新角色 广寒仙侍·玉兔\n- 另外，如果是DeepSeek模型，又想提高缓存命中概率，但是又没用什么缓存优化之类的插件的话，可以手动把世界书中角色信息的绿灯改成蓝灯"
-      },
-      {
-        "version": "1.1",
-        "date": "2026-05-05 22:08:34",
-        "content": "- 增加新角色 女娲圣人 （这是真·妈妈级别了吧）\n- 增加新角色 九尾狐狸精 （但是我魔改了，改成她派手下附身妲己，她自己还是处嘻嘻😁）\n- 如果使用DeepSeek模型且想提高缓存命中概率，可手动把世界书中角色信息的绿灯改成蓝灯"
-      },
-      {
-        "version": "1.0",
-        "date": "2026-05-04 21:49:03",
-        "content": "首次发布。"
-      }
-    ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/ren-zai-kun-lun.md",
-    "tags": ["古风", "调教", "人妻", "同人", "NTL", "纯文字"]
-  },
-  {
-    "id": "shui-ming-nv-zi-xue-yuan",
-    "characterName": "水明女子学院",
-    "name": "水明女子学院",
-    "version": "1.1",
-    "publishedAt": "2026-05-02 21:33:49",
-    "updatedAt": "2026-05-02 22:40:19",
-    "filename": "水明女子学院.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/shui-ming-nv-zi-xue-yuan-1.1.png",
-    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用\n- 适配MVU额外模型解析，如果DeepSeek掉格式可以选择此方法。开启方法：酒馆顶部三个正方体（扩展）- MVU 变量框架 - 变量更新方式 额外模型解析 - 其他按需配置",
-    "changelog": [
-      {
-        "version": "1.1",
-        "date": "2026-05-02 22:40:19",
-        "content": "- 修改部分人设+反机器人化"
-      },
-      {
-        "version": "1.0",
-        "date": "2026-05-02 21:33:49",
-        "content": "首次发布。"
-      }
-    ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/shui-ming-nv-zi-xue-yuan.md",
-    "tags": ["现代", "御姐", "纯爱", "MVU"]
-  },
-  {
-    "id": "xing-pi-da-shi-jie",
-    "characterName": "性癖大世界",
-    "name": "性癖大世界",
-    "version": "1.5.1",
-    "updatedAt": "2026-05-21 00:23:07",
-    "filename": "性癖大世界.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/xing-pi-da-shi-jie-1.5.1.png",
-    "playTips": "**游玩本卡需要安装提示词模板和酒馆助手**\n\n游玩过程中你需要注意状态栏的`当前性癖`名字和世界书条目一致",
-    "changelog": [
-      {
-        "version": "1.5.1",
-        "date": "2026-05-21 00:23:07",
-        "content": "- MVU适配额外模型解析"
-      },
-      {
-        "version": "1.5",
-        "date": "2026-01-26 22:45:00",
-        "content": "- 增加25个性癖/玩法\n- 完全重构选择界面前端和状态栏\n- 在选择界面可以**快捷查看**当前性癖的内容\n- 在选择界面可以**快捷收藏**你喜欢的性癖\n- 在选择界面可以**快捷保存和读取**你的设定\n- 设定数据和收藏内容，存储在当前**角色卡世界书**中，如果角色卡有更新，可以在世界书列表的搜索框搜索 `快捷设定`、`性癖收藏`，把这两个条目的内容**复制到新版世界书**就可以。\n- 注意：性癖收藏世界书条目**不用开启**。"
-      }
-    ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/xing-pi-da-shi-jie.md",
-    "tags": ["沙盒", "MVU"]
+    "tags": [
+      "NTL",
+      "古风",
+      "同人",
+      "御姐",
+      "人妻",
+      "MVU"
+    ]
   },
   {
     "id": "pokemon-hana",
@@ -968,25 +1184,13 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/pokemon-hana.md",
-    "tags": ["NTR", "现代", "妈妈系", "NTL", "人妻", "MVU"]
-  },
-  {
-    "id": "luo-xue-tang",
-    "characterName": "洛雪棠",
-    "name": "洛雪棠",
-    "version": "1.0",
-    "publishedAt": "2026-05-20 00:43:29",
-    "updatedAt": "2026-05-20 00:45:46",
-    "filename": "洛雪棠.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/luo-xue-tang-1.0.png",
-    "changelog": [
-      {
-        "version": "1.0",
-        "date": "2026-05-20 00:43:29",
-        "content": "首次发布。"
-      }
-    ],
-    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/luo-xue-tang.md",
-    "tags": ["纯爱", "纯文字", "现代"]
+    "tags": [
+      "NTR",
+      "现代",
+      "妈妈系",
+      "NTL",
+      "人妻",
+      "MVU"
+    ]
   }
 ]
