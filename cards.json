@@ -922,6 +922,30 @@
     "tags": ["现代", "御姐", "纯爱", "MVU"]
   },
   {
+    "id": "xing-pi-da-shi-jie",
+    "characterName": "性癖大世界",
+    "name": "性癖大世界",
+    "version": "1.5.1",
+    "updatedAt": "2026-05-21 00:23:07",
+    "filename": "性癖大世界.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/xing-pi-da-shi-jie-1.5.1.png",
+    "playTips": "**游玩本卡需要安装提示词模板和酒馆助手**\n\n游玩过程中你需要注意状态栏的`当前性癖`名字和世界书条目一致",
+    "changelog": [
+      {
+        "version": "1.5.1",
+        "date": "2026-05-21 00:23:07",
+        "content": "- MVU适配额外模型解析"
+      },
+      {
+        "version": "1.5",
+        "date": "2026-01-26 22:45:00",
+        "content": "- 增加25个性癖/玩法\n- 完全重构选择界面前端和状态栏\n- 在选择界面可以**快捷查看**当前性癖的内容\n- 在选择界面可以**快捷收藏**你喜欢的性癖\n- 在选择界面可以**快捷保存和读取**你的设定\n- 设定数据和收藏内容，存储在当前**角色卡世界书**中，如果角色卡有更新，可以在世界书列表的搜索框搜索 `快捷设定`、`性癖收藏`，把这两个条目的内容**复制到新版世界书**就可以。\n- 注意：性癖收藏世界书条目**不用开启**。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/xing-pi-da-shi-jie.md",
+    "tags": ["沙盒", "MVU"]
+  },
+  {
     "id": "pokemon-hana",
     "characterName": "花子",
     "name": "宝可梦——你妈一个人在家",
