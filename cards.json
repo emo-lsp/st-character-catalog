@@ -1,5 +1,25 @@
 [
   {
+    "id": "he-bai-mao-nv-er-de-ri-chang",
+    "characterName": "白毛女儿",
+    "name": "和白毛女儿的日常生活",
+    "version": "1.0",
+    "publishedAt": "2026-05-31",
+    "updatedAt": "2026-05-31",
+    "filename": "和白毛女儿的日常生活.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/he-bai-mao-nv-er-de-ri-chang-1.0.png",
+    "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
+    "changelog": [
+      {
+        "version": "1.0",
+        "date": "2026-05-31",
+        "content": "首次发布。"
+      }
+    ],
+    "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/he-bai-mao-nv-er-de-ri-chang.md",
+    "tags": ["纯爱", "现代", "乱伦", "父女", "MVU"]
+  },
+  {
     "id": "luo-xue-tang",
     "characterName": "洛雪棠",
     "name": "洛雪棠",
