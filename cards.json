@@ -420,13 +420,18 @@
     "id": "qi-yue-lun-tan",
     "characterName": "妻悦论坛",
     "name": "妻悦论坛",
-    "version": "1.8",
+    "version": "1.8.1",
     "publishedAt": "2025-11-24",
-    "updatedAt": "2026-01-06",
+    "updatedAt": "2026-07-04 04:11:02",
     "filename": "妻悦论坛.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/qi-yue-lun-tan-1.8.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/qi-yue-lun-tan-1.8.1.png",
     "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用\n- 图片只显示在论坛前端中，正文没有设置图片",
     "changelog": [
+      {
+        "version": "1.8.1",
+        "date": "2026-07-04 04:11:02",
+        "content": "- 抛弃若至的 GitGud，已更换为新图床\n- MVU 支持额外模型解析\n- 新图床测试中，可能存在不稳定情况；理论上不用开梯子也能出图"
+      },
       {
         "version": "1.8",
         "date": "2026-01-06",
