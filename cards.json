@@ -780,13 +780,18 @@
     "id": "tao-hua-cun-de-gong-xi",
     "characterName": "周语晴",
     "name": "桃花村的公媳",
-    "version": "1.3",
+    "version": "1.3.1",
     "publishedAt": "2025-07-16",
-    "updatedAt": "2026-05-02 16:02:51",
+    "updatedAt": "2026-07-04 16:40:11",
     "filename": "桃花村的公媳.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/tao-hua-cun-de-gong-xi-1.3.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/tao-hua-cun-de-gong-xi-1.3.1.png",
     "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
     "changelog": [
+      {
+        "version": "1.3.1",
+        "date": "2026-07-04 16:40:11",
+        "content": "- 抛弃若至的 GitGud，已更换为新图床\n- 新图床测试中，可能存在不稳定情况；理论上不用开梯子也能出图"
+      },
       {
         "version": "1.3",
         "date": "2026-05-02 16:02:51",
