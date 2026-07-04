@@ -630,13 +630,18 @@
     "id": "bao-bei-mama-xiao-ma",
     "characterName": "林暖",
     "name": "宝贝，妈妈只是在写小说啊小马版",
-    "version": "1.4",
+    "version": "1.4.1",
     "publishedAt": "2025-10-10",
-    "updatedAt": "2026-03-04",
+    "updatedAt": "2026-07-04 17:16:48",
     "filename": "宝贝，妈妈只是在写小说啊小马版.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/bao-bei-mama-xiao-ma-1.4.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/bao-bei-mama-xiao-ma-1.4.1.png",
     "playTips": "**游玩前须知**：\n\n- 虽然但是...插图不是小马，因为最初版是大学生<user>，参赛改的小马\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
     "changelog": [
+      {
+        "version": "1.4.1",
+        "date": "2026-07-04 17:16:48",
+        "content": "- 抛弃若至的 GitGud，已更换为新图床\n- MVU 支持额外模型解析\n- 新图床测试中，可能存在不稳定情况；理论上不用开梯子也能出图"
+      },
       {
         "version": "1.4",
         "date": "2026-03-04",
