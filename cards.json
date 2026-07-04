@@ -531,13 +531,18 @@
     "id": "xian-xia-ci-jing-lu-ding",
     "characterName": "虞清寒/殷妙烟/秦素霜/江小鲤",
     "name": "仙侠雌竞-我是炉鼎体质",
-    "version": "1.7",
+    "version": "1.7.1",
     "publishedAt": "2025-10-25",
-    "updatedAt": "2026-02-20",
+    "updatedAt": "2026-07-04 16:58:02",
     "filename": "仙侠雌竞-我是炉鼎体质.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/xian-xia-ci-jing-lu-ding-1.7.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/xian-xia-ci-jing-lu-ding-1.7.1.png",
     "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
     "changelog": [
+      {
+        "version": "1.7.1",
+        "date": "2026-07-04 16:58:02",
+        "content": "- 抛弃若至的 GitGud，已更换为新图床\n- 新图床测试中，可能存在不稳定情况；理论上不用开梯子也能出图"
+      },
       {
         "version": "1.7",
         "date": "2026-02-20",
