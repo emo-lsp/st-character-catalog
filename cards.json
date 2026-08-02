@@ -239,13 +239,18 @@
     "id": "chuan-yue-zha-die",
     "characterName": "白毛妻子",
     "name": "穿越渣爹",
-    "version": "1.1",
+    "version": "1.2",
     "publishedAt": "2026-02-02",
-    "updatedAt": "2026-05-04 16:38:48",
+    "updatedAt": "2026-08-02 18:22:42",
     "filename": "穿越渣爹.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/chuan-yue-zha-die-1.1.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/chuan-yue-zha-die-1.2.png",
     "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
     "changelog": [
+      {
+        "version": "1.2",
+        "date": "2026-08-02 18:22:42",
+        "content": "- 使用新模板重写角色\n- 重构状态栏，新增功能，比如可以查看评价\n- 另外，如果是DeepSeek模型，又想提高缓存命中概率，但是又没用什么缓存优化之类的插件的话，可以手动把世界书中角色信息的绿灯改成蓝灯"
+      },
       {
         "version": "1.1",
         "date": "2026-05-04 16:38:48",
