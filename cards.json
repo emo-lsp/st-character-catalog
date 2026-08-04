@@ -847,13 +847,18 @@
     "id": "tong-xue-ni-mama-hen-run",
     "characterName": "江念雪",
     "name": "同学你妈妈很润",
-    "version": "2.6",
+    "version": "2.6.1",
     "publishedAt": "2025-07-03",
-    "updatedAt": "2025-12-16",
+    "updatedAt": "2026-07-10 21:55",
     "filename": "同学你妈妈很润.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/tong-xue-ni-mama-hen-run-2.6.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/tong-xue-ni-mama-hen-run-2.6.1.png",
     "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
     "changelog": [
+      {
+        "version": "2.6.1",
+        "date": "2026-07-10 21:55",
+        "content": "# 2.6.1版本更新，抛弃若至的gitgud，已经更换了新图床\n\n## 新图床测试，会有不稳定的情况出现，理论上来说不用开梯子就能出图"
+      },
       {
         "version": "2.6",
         "date": "2025-12-16",
