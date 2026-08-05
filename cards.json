@@ -148,13 +148,18 @@
     "id": "mo-ban-che-de-cheng-xiao-man",
     "characterName": "程小满",
     "name": "末班车的程小满",
-    "version": "1.1",
+    "version": "1.2",
     "publishedAt": "2026-03-26",
-    "updatedAt": "2026-03-27",
+    "updatedAt": "2026-08-05 16:20:19",
     "filename": "末班车的程小满.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/mo-ban-che-de-cheng-xiao-man-1.1.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/mo-ban-che-de-cheng-xiao-man-1.2.png",
     "playTips": "**游玩前须知**：\n\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
     "changelog": [
+      {
+        "version": "1.2",
+        "date": "2026-08-05 16:20:19",
+        "content": "- 开场主页图片更换图床（GitGud → Catbox）"
+      },
       {
         "version": "1.1",
         "date": "2026-03-27",
@@ -167,6 +172,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/mo-ban-che-de-cheng-xiao-man.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/mo-ban-che-de-cheng-xiao-man.webp",
     "tags": [
       "纯爱",
       "现代",
