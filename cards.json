@@ -17,6 +17,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/he-bai-mao-nv-er-de-ri-chang.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/he-bai-mao-nv-er-de-ri-chang.webp",
     "tags": ["纯爱", "现代", "乱伦", "父女", "萝莉", "MVU"]
   },
   {
@@ -36,6 +37,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/luo-xue-tang.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/luo-xue-tang.webp",
     "tags": [
       "纯爱",
       "纯文字",
@@ -74,6 +76,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/ren-zai-kun-lun.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/ren-zai-kun-lun.webp",
     "tags": [
       "古风",
       "调教",
@@ -106,6 +109,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/shui-ming-nv-zi-xue-yuan.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/shui-ming-nv-zi-xue-yuan.webp",
     "tags": [
       "现代",
       "御姐",
@@ -136,6 +140,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/xing-yin-mama-qin-shu-huai.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/xing-yin-mama-qin-shu-huai.webp",
     "tags": [
       "纯爱",
       "现代",
@@ -203,6 +208,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/sao-zi-bu-ke-yi.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/sao-zi-bu-ke-yi.webp",
     "tags": [
       "NTL",
       "现代",
@@ -234,6 +240,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/wo-de-shi-zun.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/wo-de-shi-zun.webp",
     "tags": [
       "纯爱",
       "古风",
@@ -269,6 +276,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/chuan-yue-zha-die.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/chuan-yue-zha-die.webp",
     "tags": [
       "纯爱",
       "现代",
@@ -304,6 +312,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/mu-shang-gong-lue.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/mu-shang-gong-lue.webp",
     "tags": [
       "NTL",
       "纯爱",
@@ -352,6 +361,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/wo-dang-xi-tong.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/wo-dang-xi-tong.webp",
     "tags": [
       "沙盒",
       "系统",
@@ -386,6 +396,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/shi-er-nian-de-dong-xia.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/shi-er-nian-de-dong-xia.webp",
     "tags": [
       "NTL",
       "现代",
@@ -423,6 +434,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/ci-xiao-gui-cheng-jie-zhe.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/ci-xiao-gui-cheng-jie-zhe.webp",
     "tags": [
       "NTL",
       "现代",
@@ -491,6 +503,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/qi-yue-lun-tan.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/qi-yue-lun-tan.webp",
     "tags": [
       "NTL",
       "现代",
@@ -534,6 +547,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/er-zi-de-fu-dao-yuan.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/er-zi-de-fu-dao-yuan.webp",
     "tags": [
       "NTL",
       "现代",
@@ -601,6 +615,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/xian-xia-ci-jing-lu-ding.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/xian-xia-ci-jing-lu-ding.webp",
     "tags": [
       "纯爱",
       "古风",
@@ -633,6 +648,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/xue-jian-qian-he.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/xue-jian-qian-he.webp",
     "tags": [
       "纯爱",
       "现代",
@@ -685,6 +701,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/bao-bei-mama-xiao-ma.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/bao-bei-mama-xiao-ma.webp",
     "tags": [
       "NTL",
       "现代",
@@ -712,6 +729,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/ci-xiao-gui-zao-tang.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/ci-xiao-gui-zao-tang.webp",
     "tags": [
       "纯爱",
       "现代",
@@ -757,6 +775,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/yin-jian-bian-li-dian.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/yin-jian-bian-li-dian.webp",
     "tags": [
       "NTL",
       "现代",
@@ -794,6 +813,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/luo-qing-yi.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/luo-qing-yi.webp",
     "tags": [
       "NTL",
       "古风",
@@ -840,6 +860,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/tao-hua-cun-de-gong-xi.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/tao-hua-cun-de-gong-xi.webp",
     "tags": [
       "NTL",
       "现代",
@@ -902,6 +923,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/tong-xue-ni-mama-hen-run.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/tong-xue-ni-mama-hen-run.webp",
     "tags": [
       "NTL",
       "现代",
@@ -938,6 +960,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/luo-xue.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/luo-xue.webp",
     "tags": [
       "纯爱",
       "现代",
@@ -968,6 +991,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/da-feng-da-geng-ren.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/da-feng-da-geng-ren.webp",
     "tags": [
       "NTL",
       "古风",
@@ -995,6 +1019,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/nv-you-xiao-ye-baolu.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/nv-you-xiao-ye-baolu.webp",
     "tags": [
       "NTL",
       "现代",
@@ -1021,6 +1046,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/guan-mian-zhi-xia.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/guan-mian-zhi-xia.webp",
     "tags": [
       "NTL",
       "现代",
@@ -1052,6 +1078,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/nv-you-xiao-ye.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/nv-you-xiao-ye.webp",
     "tags": [
       "NTL",
       "现代",
@@ -1082,6 +1109,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/dao-ming-si-ling-xiang.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/dao-ming-si-ling-xiang.webp",
     "tags": [
       "乱伦",
       "NTL",
@@ -1114,6 +1142,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/san-ge-ji-jie-zhi-wai.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/san-ge-ji-jie-zhi-wai.webp",
     "tags": [
       "乱伦",
       "纯爱",
@@ -1145,6 +1174,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/xing-pi-da-shi-jie.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/xing-pi-da-shi-jie.webp",
     "tags": [
       "沙盒",
       "MVU"
@@ -1178,6 +1208,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/xiao-mao-bai-yue-guang.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/xiao-mao-bai-yue-guang.webp",
     "tags": [
       "古风",
       "御姐",
@@ -1213,6 +1244,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/ji-pin-jia-ding.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/ji-pin-jia-ding.webp",
     "tags": [
       "NTL",
       "古风",
@@ -1245,6 +1277,7 @@
       }
     ],
     "introUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/intros/pokemon-hana.md",
+    "coverUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/covers/pokemon-hana.webp",
     "tags": [
       "NTR",
       "现代",
