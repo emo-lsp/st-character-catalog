@@ -662,13 +662,18 @@
     "id": "bao-bei-mama-xiao-ma",
     "characterName": "宝贝，妈妈只是在写小说啊小马版",
     "name": "宝贝，妈妈只是在写小说啊小马版",
-    "version": "1.4.1",
+    "version": "1.4.2",
     "publishedAt": "2025-10-10",
-    "updatedAt": "2026-07-04 17:16:48",
+    "updatedAt": "2026-08-06 22:59:54",
     "filename": "宝贝，妈妈只是在写小说啊小马版.png",
-    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/bao-bei-mama-xiao-ma-1.4.1.png",
+    "cardUrl": "https://raw.githubusercontent.com/emo-lsp/st-character-catalog/main/cards/bao-bei-mama-xiao-ma-1.4.2.png",
     "playTips": "**游玩前须知**：\n\n- 虽然但是...插图不是小马，因为最初版是大学生<user>，参赛改的小马\n- 需要安装酒馆助手并启用脚本\n- 需要安装提示词模板并启用",
     "changelog": [
+      {
+        "version": "1.4.2",
+        "date": "2026-08-06 22:59:54",
+        "content": "- 修改世界书里冲突的内容\n- 实装一个外接API处理插图任务的插件，**默认启用，如果不想用可以关闭这个酒馆助手脚本**\n\n这个插件在正文生成完后，自动让 AI 从角色卡的图片目录里挑图，把插图标签插到对应段落后。\n\n**优点**\n- 方便：对图片不满意可以快速重新生成\n- 准确率：实际测试，**DeepSeek V4 Flash** 对图片描述和插入图片的段落位置把控还不错\n\n**缺点**\n- 得花钱：每楼正文都要再调一次 AI，多花一次 token，还要等几秒，不能随流式生成插图\n- 额外费用：其实还好，每次只读取最新的一层楼，实际 token 没多少"
+      },
       {
         "version": "1.4.1",
         "date": "2026-07-04 17:16:48",
