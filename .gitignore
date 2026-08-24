@@ -1,1 +1,17 @@
+# 私有内容 —— 公开仓库绝不提交
+cards/
+cards.json
+AI_CONTEXT.md
+
+# Worker 网关与工程环境
+worker/
+package.json
+pnpm-lock.yaml
+tsconfig.json
+
+# 通用忽略
 .DS_Store
+node_modules/
+.dev.vars
+.wrangler/
+coverage/
